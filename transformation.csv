@@ -1,0 +1,11 @@
+step,operation,parameters,affected_columns
+1,Drop rows with missing values,{},"['product_name', 'payment_method']"
+2,Convert to Numeric,"{'removed_chars': '$,'}",['order_date']
+3,Convert to Categorical,{},['order_date']
+4,Convert to Numeric,"{'removed_chars': '$,'}",['customer_id']
+5,Standardize: Title Case,{},['region']
+6,Rare Category Grouping,{'threshold_%': 5},['region']
+7,Outlier Handling,"{'action': 'Remove outlier rows', 'method': 'IQR'}",['customer_id']
+8,Outlier Handling,"{'action': 'Cap / Winsorize at quantiles', 'method': 'IQR'}",['customer_id']
+9,Scaling,{'method': 'Min-Max Scaling'},"['customer_id', 'quantity']"
+10,Rename Column,"{'from': 'order_id', 'to': 'order_idd'}",['order_id']

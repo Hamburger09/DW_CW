@@ -1,0 +1,1101 @@
+employee_id,hire_date,department,job_level,education,gender,base_salary,bonus_pct,performance_score,projects_completed,training_hours,remote_days_wk,last_eval_date,attrition_risk
+EMP-10000,2020-05-17,Sales,Junior,Master's,Female,49400.0,0.24,3.4,19,87.0,3,2024-01-30,Medium
+EMP-10001,2015-07-29,Finance,Junior,PhD,Male,37300.0,0.17,1.9,15,107.0,3,2024-04-02,Low
+EMP-10002,2018-12-26,Engineering,Senior,Associate,Female,85400.0,,1.4,7,36.0,4,2024-08-10,Low
+EMP-10003,2017-11-24,Finance,Senior,Master's,Female,83200.0,0.1,3.1,27,22.0,1,2024-11-23,High
+EMP-10004,2012-03-11,Operations,Manager,PhD,Prefer not to say,132300.0,0.05,3.8,12,81.0,3,2024-03-04,Low
+EMP-10005,2014-01-28,Legal,Manager,Master's,Non-binary,135900.0,0.2,3.6,16,87.0,4,2024-01-26,Medium
+EMP-10006,2016-07-15,Sales,Junior,High School,Male,52500.0,,3.2,21,57.0,2,2024-03-11,Medium
+EMP-10007,2012-08-01,Legal,Mid,PhD,Male,68000.0,0.06,3.9,23,100.0,2,2024-02-06,Medium
+EMP-10008,2016-01-29,Finance,Senior,Master's,Female,94000.0,0.19,4.6,20,73.0,3,2024-11-01,Low
+EMP-10009,2014-12-01,R&D,Mid,Associate,Female,59100.0,0.13,1.6,0,46.0,3,2024-09-11,Low
+EMP-10010,2010-11-28,Legal,Mid,Associate,Male,74600.0,0.04,2.7,2,50.0,3,2024-04-02,Medium
+EMP-10011,2019-01-28,Operations,Senior,Associate,Male,86000.0,0.05,2.3,14,104.0,5,2024-01-08,Low
+EMP-10012,2010-11-24,Finance,Junior,PhD,,47000.0,0.14,1.3,27,101.0,4,2024-10-14,Low
+EMP-10013,2013-08-20,R&D,Director,Associate,Male,167300.0,0.18,3.5,14,43.0,5,2024-03-25,Low
+EMP-10014,2019-08-30,Engineering,Junior,Associate,Prefer not to say,38900.0,0.24,3.3,3,66.0,1,2024-09-12,High
+EMP-10015,2014-06-11,R&D,Manager,Associate,Female,139400.0,0.06,1.4,5,9.0,3,2024-04-23,Medium
+EMP-10016,2016-10-18,HR,Junior,Associate,Male,33700.0,0.09,,23,1.0,4,2024-12-11,Low
+EMP-10017,2013-07-03,Legal,Senior,Master's,Female,103300.0,0.13,2.7,7,78.0,3,2024-12-11,Low
+EMP-10018,2018-07-17,Sales,Senior,Bachelor's,Female,103700.0,,,11,10.0,1,2024-05-30,High
+EMP-10019,2010-11-18,Legal,Junior,High School,Prefer not to say,49600.0,0.08,4.7,24,90.0,0,2024-04-18,Low
+EMP-10020,2022-05-22,HR,Junior,Associate,Male,40000.0,0.03,2.8,17,94.0,5,2024-09-30,Low
+EMP-10021,2016-12-22,Operations,Senior,PhD,Female,95400.0,0.12,3.0,19,25.0,4,2024-03-22,Medium
+EMP-10022,2014-01-11,Operations,Manager,PhD,Male,139000.0,0.14,1.4,1,80.0,5,2024-03-15,Medium
+EMP-10023,2022-08-30,Legal,Manager,High School,Non-binary,144600.0,0.09,3.7,9,82.0,0,2024-04-15,Low
+EMP-10024,2015-02-08,Sales,Director,High School,Female,182700.0,0.01,,11,28.0,5,2024-09-21,Low
+EMP-10025,2022-10-15,Marketing,Senior,Bachelor's,Male,84900.0,0.13,2.7,10,116.0,1,2024-02-21,Low
+EMP-10026,2021-03-02,Legal,Lead,Master's,Male,123200.0,0.17,1.0,16,,5,2024-08-26,Medium
+EMP-10027,2021-09-06,Sales,Junior,PhD,Female,39000.0,0.12,1.2,16,45.0,5,2024-02-18,Low
+EMP-10028,2015-09-18,HR,Senior,Associate,Male,89100.0,0.23,,8,49.0,2,2024-04-13,Low
+EMP-10029,2019-10-03,Operations,Director,High School,Female,171400.0,0.13,4.0,29,,2,2024-02-16,Low
+EMP-10030,2022-11-26,Marketing,Director,PhD,Male,162400.0,0.09,3.3,26,44.0,4,2024-01-26,Low
+EMP-10031,2017-10-30,Finance,Director,Master's,Male,170500.0,0.02,4.4,26,1.0,0,2024-07-31,Low
+EMP-10032,2010-01-08,Legal,Junior,PhD,Female,46100.0,0.22,3.3,25,,1,2024-04-24,Low
+EMP-10033,2012-07-05,Engineering,Mid,High School,Male,60900.0,0.06,3.7,20,56.0,4,2024-12-03,Low
+EMP-10034,2016-06-03,R&D,Junior,PhD,Male,37800.0,0.21,2.3,10,52.0,3,2024-05-11,High
+EMP-10035,2010-12-18,HR,Lead,Master's,Female,122000.0,0.12,1.2,13,36.0,4,2024-12-27,Low
+EMP-10036,2023-02-15,Sales,Junior,Master's,Male,46400.0,0.23,,4,94.0,0,2024-08-14,Medium
+EMP-10037,2011-01-23,HR,Director,Master's,Female,182100.0,0.17,,18,33.0,2,2024-12-17,High
+EMP-10038,2015-06-26,HR,Senior,Bachelor's,Male,104500.0,0.2,3.8,8,118.0,1,2024-08-05,Low
+EMP-10039,2012-06-29,Engineering,Senior,High School,Female,87500.0,0.13,3.9,22,44.0,2,2024-03-20,High
+EMP-10040,2010-11-01,Operations,Manager,High School,Non-binary,144600.0,0.16,4.9,26,,2,2024-01-30,Low
+EMP-10041,2017-02-22,Marketing,Senior,Master's,Female,91300.0,0.2,5.0,11,36.0,2,2024-12-22,Medium
+EMP-10042,2014-09-18,Finance,Senior,Associate,Male,94800.0,0.11,3.4,1,44.0,2,2024-03-09,Medium
+EMP-10043,2017-10-02,Finance,Mid,Bachelor's,Male,65100.0,0.16,4.4,13,113.0,2,2024-01-22,Low
+EMP-10044,2011-12-07,Marketing,Director,High School,Female,173200.0,0.05,4.3,13,40.0,2,2024-03-22,Medium
+EMP-10045,2019-05-11,Engineering,Junior,High School,Female,40400.0,0.24,4.4,27,70.0,3,2024-08-16,Low
+EMP-10046,2018-10-30,Sales,Manager,High School,Non-binary,122900.0,0.18,3.0,9,28.0,3,2024-05-30,Medium
+EMP-10047,2014-12-14,HR,Junior,Master's,Male,35000.0,0.16,3.9,10,14.0,1,2024-04-29,High
+EMP-10048,2016-04-22,Sales,Director,Bachelor's,Female,184600.0,0.05,4.7,2,29.0,0,2024-10-25,Low
+EMP-10049,2021-10-29,Legal,Lead,Master's,Female,108900.0,0.08,4.9,2,79.0,4,2024-06-12,Low
+EMP-10050,2012-01-07,Finance,Mid,Master's,Male,78000.0,0.05,3.4,25,100.0,1,2024-12-27,Low
+EMP-10051,2017-10-30,Marketing,Mid,PhD,Female,65500.0,,4.0,2,9.0,2,2024-10-14,Medium
+EMP-10052,2019-07-06,HR,Senior,Associate,Prefer not to say,102300.0,0.25,3.5,27,95.0,3,2024-03-19,Low
+EMP-10053,2019-12-05,HR,Director,Master's,Male,183500.0,0.15,4.2,13,,3,2024-06-07,Low
+EMP-10054,2017-08-19,Finance,Director,High School,Female,183100.0,0.21,2.3,13,,2,2024-05-12,Low
+EMP-10055,2021-04-14,Engineering,Senior,PhD,Female,101400.0,0.19,2.3,7,,5,2024-06-15,Low
+EMP-10056,2020-02-27,HR,Manager,Master's,Female,126700.0,0.01,2.9,19,50.0,1,2024-10-07,Medium
+EMP-10057,2021-05-29,R&D,Director,Associate,Female,183500.0,0.14,4.0,7,26.0,5,2024-04-19,Medium
+EMP-10058,2011-03-21,Sales,Manager,Master's,Male,124300.0,0.1,3.8,27,99.0,4,2024-03-18,Low
+EMP-10059,2014-08-15,Engineering,Director,Associate,,181600.0,0.14,3.0,5,17.0,0,2024-12-06,Low
+EMP-10060,2019-08-11,Finance,Junior,Associate,Female,34200.0,0.2,4.2,17,109.0,3,2024-04-28,Low
+EMP-10061,2021-06-25,Engineering,Lead,Bachelor's,Prefer not to say,124800.0,0.07,,11,48.0,4,2024-07-19,Low
+EMP-10062,2012-11-11,Operations,Lead,PhD,Male,114800.0,0.14,1.7,16,28.0,2,2024-01-17,Low
+EMP-10063,2020-12-24,Operations,Junior,Bachelor's,Female,42000.0,0.23,2.1,11,92.0,0,2024-06-16,Medium
+EMP-10064,2014-03-31,R&D,Senior,Bachelor's,Male,84600.0,0.09,2.0,7,87.0,3,2024-07-13,High
+EMP-10065,2010-12-24,Sales,Mid,High School,,59100.0,0.21,2.4,17,119.0,0,2024-03-20,Medium
+EMP-10066,2022-07-17,Operations,Mid,PhD,Male,59200.0,0.01,3.8,16,44.0,2,2024-11-24,Low
+EMP-10067,2015-11-10,R&D,Junior,High School,,49600.0,0.09,4.5,21,44.0,4,2024-05-29,Low
+EMP-10068,2013-11-30,Marketing,Mid,,Female,57500.0,0.06,4.1,21,90.0,2,2024-04-24,Low
+EMP-10069,2022-04-04,Operations,Junior,PhD,Male,34400.0,0.05,4.9,23,85.0,1,2024-12-01,Medium
+EMP-10070,2013-09-02,R&D,Director,Master's,Female,173800.0,0.18,4.0,8,64.0,3,2024-10-06,Low
+EMP-10071,2015-04-18,Engineering,Mid,Associate,Female,59400.0,0.05,3.0,11,76.0,0,2024-12-21,High
+EMP-10072,2022-03-14,Engineering,Manager,High School,Male,126700.0,0.17,1.2,21,,2,2024-02-17,Medium
+EMP-10073,2015-11-03,Finance,Lead,Associate,Prefer not to say,120300.0,0.19,,2,39.0,5,2024-04-11,Low
+EMP-10074,2015-08-08,HR,Junior,Associate,Female,35700.0,0.07,1.9,0,103.0,0,2024-08-25,Low
+EMP-10075,2011-05-02,Marketing,Manager,PhD,Male,138200.0,0.21,1.7,24,17.0,3,2024-03-17,Medium
+EMP-10076,2013-10-08,Legal,Manager,Associate,Male,143200.0,0.01,2.0,25,116.0,0,2024-04-04,Medium
+EMP-10077,2018-01-10,Marketing,Mid,Master's,Female,73700.0,0.17,1.6,22,58.0,2,2024-08-08,Low
+EMP-10078,2017-10-15,Finance,Senior,Master's,Male,104500.0,0.02,2.5,29,83.0,5,2024-06-19,Low
+EMP-10079,2019-03-27,Sales,Director,Bachelor's,Female,171000.0,0.2,1.7,12,116.0,2,2024-12-13,High
+EMP-10080,2012-01-29,Finance,Senior,Bachelor's,Female,96700.0,0.24,4.5,4,94.0,4,2024-07-24,Low
+EMP-10081,2014-07-08,Engineering,Junior,High School,Female,37800.0,,1.8,20,59.0,1,2024-02-28,Low
+EMP-10082,2016-12-19,Engineering,Director,High School,Female,165300.0,0.03,4.2,22,72.0,3,2024-01-20,Low
+EMP-10083,2013-01-28,Operations,Mid,Associate,Female,65400.0,0.1,2.8,3,68.0,5,2024-06-29,Medium
+EMP-10084,2013-01-23,Engineering,Manager,PhD,Male,131900.0,0.08,2.0,14,8.0,3,2024-03-03,Low
+EMP-10085,2020-11-28,Operations,Lead,High School,Male,114900.0,0.02,1.3,15,12.0,2,2024-12-02,High
+EMP-10086,2020-10-29,Engineering,Lead,Bachelor's,Male,115400.0,0.2,4.6,18,26.0,2,2024-04-17,Low
+EMP-10087,2015-05-03,HR,Manager,High School,Female,144800.0,0.11,3.8,19,4.0,3,2024-12-01,Medium
+EMP-10088,2015-06-04,R&D,Mid,Master's,Female,79600.0,,2.1,14,111.0,0,2024-09-25,Medium
+EMP-10089,2010-02-18,R&D,Manager,,Male,127700.0,0.21,,22,117.0,0,2024-09-26,Medium
+EMP-10090,2021-07-24,Finance,Junior,High School,Non-binary,46600.0,0.2,2.8,13,82.0,4,2024-02-07,Low
+EMP-10091,2019-12-25,Finance,Manager,Bachelor's,Male,125100.0,0.22,2.8,25,91.0,3,2024-05-28,Low
+EMP-10092,2012-12-26,Legal,Director,Associate,Male,177100.0,0.14,2.3,9,60.0,4,2024-09-07,Low
+EMP-10093,2017-11-19,HR,Senior,Master's,Female,93200.0,0.06,1.7,19,25.0,2,2024-06-27,Medium
+EMP-10094,2016-09-18,R&D,Lead,PhD,Female,112600.0,0.09,2.3,11,74.0,0,2024-01-10,Medium
+EMP-10095,2012-12-28,R&D,Manager,Master's,Female,128800.0,0.01,,29,42.0,5,2024-09-11,Low
+EMP-10096,2013-03-08,Finance,Junior,High School,Female,33000.0,,3.6,27,49.0,3,2024-02-17,Low
+EMP-10097,2023-03-07,Finance,Junior,PhD,Male,44700.0,0.1,1.7,3,117.0,4,2024-04-12,Low
+EMP-10098,2022-08-20,Legal,Mid,Associate,Female,64400.0,,4.2,18,23.0,4,2024-09-05,Low
+EMP-10099,2015-05-27,Sales,Junior,PhD,Male,35500.0,0.2,3.4,10,74.0,4,2024-05-23,Low
+EMP-10100,2017-06-25,Engineering,Junior,Associate,Prefer not to say,38800.0,0.2,4.1,23,103.0,5,2024-06-04,Low
+EMP-10101,2012-08-24,R&D,Junior,Associate,Male,43500.0,0.19,2.8,13,,5,2024-11-02,Medium
+EMP-10102,2022-04-19,Engineering,Manager,PhD,Female,144000.0,0.08,,29,58.0,1,2024-10-25,Low
+EMP-10103,2019-07-11,Operations,Lead,Associate,Female,113000.0,0.09,1.9,20,17.0,5,2024-10-03,Low
+EMP-10104,2013-10-18,R&D,Director,PhD,,171100.0,0.2,1.5,17,92.0,5,2024-02-15,Medium
+EMP-10105,2013-06-22,Finance,Senior,Associate,Female,102500.0,0.22,1.3,11,109.0,2,2024-04-13,Medium
+EMP-10106,2020-05-05,Marketing,Senior,Associate,Female,82300.0,0.09,2.5,3,12.0,5,2024-03-12,High
+EMP-10107,2019-02-09,R&D,Junior,Associate,Female,38200.0,0.2,4.7,1,81.0,2,2024-08-28,Low
+EMP-10108,2014-08-18,Finance,Director,High School,Female,164400.0,0.0,3.5,9,29.0,3,2024-05-18,Low
+EMP-10109,2012-07-26,Marketing,Director,Associate,Female,164900.0,0.03,3.0,19,58.0,1,2024-04-26,Low
+EMP-10110,2016-06-28,HR,Junior,PhD,Male,37200.0,0.16,2.9,11,40.0,1,2024-10-23,Low
+EMP-10111,2010-04-12,R&D,Senior,,Male,103600.0,0.16,3.8,3,119.0,0,2024-06-02,Medium
+EMP-10112,2018-02-01,Finance,Junior,Bachelor's,Prefer not to say,53700.0,0.19,3.7,7,,5,2024-01-17,Medium
+EMP-10113,2020-11-30,R&D,Manager,High School,Male,141200.0,,4.3,15,93.0,1,2024-10-24,Medium
+EMP-10114,2014-08-19,Marketing,Director,Bachelor's,,172200.0,0.11,1.8,25,98.0,3,2024-11-02,Low
+EMP-10115,2010-12-22,HR,Director,Associate,Female,183700.0,0.14,4.0,10,15.0,4,2024-02-21,Low
+EMP-10116,2011-05-10,HR,Mid,High School,Female,65600.0,0.23,,7,,4,2024-01-01,Low
+EMP-10117,2016-04-19,Sales,Mid,Master's,Female,62900.0,0.15,4.2,13,29.0,0,2024-06-25,Low
+EMP-10118,2016-10-25,Finance,Director,High School,Female,163500.0,0.11,,18,37.0,2,2024-04-09,Medium
+EMP-10119,2014-06-03,Finance,Senior,High School,Male,86700.0,0.08,3.0,26,7.0,3,2024-03-18,Medium
+EMP-10120,2012-06-24,Sales,Manager,Bachelor's,Male,137800.0,0.11,4.9,27,68.0,3,2024-12-02,Low
+EMP-10121,2016-12-05,Finance,Junior,Master's,Female,35200.0,0.07,,1,52.0,1,2024-06-02,Low
+EMP-10122,2020-01-19,Legal,Manager,High School,Female,123900.0,0.08,3.3,29,62.0,1,2024-01-26,Low
+EMP-10123,2012-07-14,Legal,Director,Associate,Female,174600.0,,2.5,25,,2,2024-03-29,Medium
+EMP-10124,2013-08-14,Engineering,Director,Associate,Female,170300.0,0.13,3.9,24,30.0,2,2024-06-19,Medium
+EMP-10125,2017-04-12,Marketing,Junior,Master's,Male,53400.0,0.24,3.4,27,33.0,3,2024-06-28,Low
+EMP-10126,2019-12-26,HR,Manager,Bachelor's,Male,124900.0,0.06,4.0,13,87.0,3,2024-08-18,Medium
+EMP-10127,2020-07-06,Operations,Lead,Bachelor's,Male,120700.0,0.18,2.8,13,,1,2024-09-03,Low
+EMP-10128,2022-10-07,Marketing,Manager,High School,Prefer not to say,141100.0,0.21,2.4,12,101.0,4,2024-05-06,Low
+EMP-10129,2018-02-21,Finance,Junior,Master's,Male,39300.0,0.2,2.7,10,26.0,3,2024-06-17,Medium
+EMP-10130,2016-06-29,R&D,Junior,Associate,Female,34000.0,0.22,4.8,6,115.0,3,2024-07-05,Low
+EMP-10131,2013-10-09,Legal,Junior,Associate,Female,34100.0,0.04,1.5,3,104.0,3,2024-04-01,Low
+EMP-10132,2022-07-04,HR,Mid,PhD,Male,66700.0,0.12,2.5,15,27.0,4,2024-02-26,Medium
+EMP-10133,2011-08-12,Finance,Senior,Associate,Male,82500.0,0.17,2.0,1,48.0,0,2024-06-01,High
+EMP-10134,2011-01-09,R&D,Mid,Bachelor's,Female,65800.0,0.06,2.9,5,52.0,5,2024-02-05,Low
+EMP-10135,2010-03-30,Finance,Director,Associate,Male,166300.0,0.09,2.8,17,33.0,5,2024-10-13,Medium
+EMP-10136,2020-07-05,Marketing,Director,Bachelor's,Female,173600.0,0.12,,9,30.0,0,2024-08-20,Low
+EMP-10137,2020-11-21,Sales,Junior,Associate,Female,43900.0,0.07,4.4,14,76.0,5,2024-02-18,Low
+EMP-10138,2011-11-19,Sales,Senior,Bachelor's,Male,99800.0,0.07,3.7,29,,4,2024-10-09,High
+EMP-10139,2017-06-10,Sales,Director,Master's,Male,167800.0,0.03,1.2,16,41.0,0,2024-02-27,Medium
+EMP-10140,2022-08-23,Legal,Senior,PhD,Female,86500.0,0.19,4.6,17,118.0,5,2024-03-23,Medium
+EMP-10141,2015-12-07,Marketing,Lead,High School,Female,114100.0,0.24,3.8,7,3.0,1,2024-10-31,Low
+EMP-10142,2012-06-10,HR,Senior,Master's,Female,90200.0,0.2,3.1,14,119.0,5,2024-07-20,Low
+EMP-10143,2020-12-18,Finance,Junior,Bachelor's,Male,44100.0,,2.0,6,79.0,0,2024-08-24,Low
+EMP-10144,2019-09-28,R&D,Lead,High School,Female,114000.0,0.12,4.7,21,12.0,4,2024-01-19,Medium
+EMP-10145,2020-12-14,Marketing,Senior,PhD,Male,87400.0,0.23,2.6,2,30.0,3,2024-01-18,Medium
+EMP-10146,2014-04-04,Engineering,Senior,PhD,Male,99100.0,0.15,4.6,29,,0,2024-01-21,High
+EMP-10147,2022-03-07,HR,Junior,Associate,Non-binary,53700.0,0.09,2.9,14,112.0,4,2024-09-19,Low
+EMP-10148,2017-03-21,Marketing,Lead,Master's,Male,105700.0,0.21,3.4,5,101.0,0,2024-10-23,Low
+EMP-10149,2010-03-10,HR,Junior,PhD,Male,40100.0,0.17,4.1,16,19.0,4,2024-02-19,Low
+EMP-10150,2018-01-22,Sales,Lead,Master's,Female,107400.0,0.21,1.6,14,96.0,5,2024-07-30,Medium
+EMP-10151,2012-01-16,Marketing,Manager,Master's,Prefer not to say,131300.0,0.17,2.2,17,39.0,1,2024-11-27,Low
+EMP-10152,2016-05-31,Finance,Senior,High School,Female,94500.0,0.15,3.4,18,92.0,5,2024-12-22,Medium
+EMP-10153,2015-08-22,Engineering,Director,PhD,Female,163000.0,0.08,4.9,27,90.0,2,2024-03-08,Low
+EMP-10154,2015-07-09,Engineering,Lead,Master's,Male,109300.0,0.23,1.2,8,119.0,1,2024-07-31,Low
+EMP-10155,2011-10-03,Operations,Director,Associate,Non-binary,183300.0,0.13,4.0,4,83.0,0,2024-10-22,Medium
+EMP-10156,2013-02-09,Engineering,Senior,High School,Male,88400.0,0.07,3.8,4,13.0,4,2024-06-29,Low
+EMP-10157,2010-08-15,Operations,Junior,Master's,Female,39200.0,0.17,4.0,28,68.0,2,2024-02-09,Low
+EMP-10158,2010-07-27,Legal,Mid,Master's,Non-binary,69600.0,0.12,2.4,11,23.0,5,2024-07-10,Low
+EMP-10159,2018-11-13,Legal,Lead,PhD,Female,114000.0,0.12,4.0,0,,5,2024-12-05,Low
+EMP-10160,2013-04-03,Finance,Mid,PhD,Male,64900.0,0.08,5.0,13,67.0,5,2024-03-24,Low
+EMP-10161,2016-08-24,Marketing,Lead,High School,,123000.0,0.15,2.1,26,71.0,3,2024-07-03,Low
+EMP-10162,2018-04-02,Engineering,Mid,Associate,,72500.0,0.25,4.8,27,73.0,1,2024-03-27,High
+EMP-10163,2014-03-02,Operations,Manager,Associate,Female,130600.0,0.18,3.9,28,,3,2024-12-05,Medium
+EMP-10164,2021-10-14,HR,Director,High School,Male,162200.0,,1.2,7,22.0,0,2024-02-16,Low
+EMP-10165,2013-10-12,R&D,Director,Master's,Male,163700.0,0.23,4.2,29,79.0,2,2024-06-18,Low
+EMP-10166,2012-04-17,Finance,Manager,Bachelor's,Female,125300.0,0.21,1.8,17,63.0,0,2024-01-03,Low
+EMP-10167,2016-12-17,Finance,Manager,High School,Male,143700.0,0.05,3.7,11,14.0,2,2024-11-26,Low
+EMP-10168,2017-04-30,Engineering,Manager,Master's,Female,134400.0,0.01,3.6,6,75.0,1,2024-09-02,Low
+EMP-10169,2018-07-05,Legal,Manager,Master's,Non-binary,134100.0,0.2,2.7,8,48.0,3,2024-06-04,Low
+EMP-10170,2014-02-20,Marketing,Lead,,Male,109700.0,0.18,3.7,5,55.0,3,2024-03-17,High
+EMP-10171,2017-12-28,R&D,Mid,PhD,Female,66200.0,0.22,2.3,11,43.0,0,2024-05-13,Low
+EMP-10172,2017-03-07,Operations,Lead,High School,Male,103000.0,0.02,1.4,7,82.0,0,2024-02-18,Low
+EMP-10173,2015-03-02,Marketing,Mid,PhD,Female,72500.0,,2.6,21,,0,2024-02-24,Medium
+EMP-10174,2018-04-07,Marketing,Manager,High School,Male,136400.0,0.19,3.9,5,29.0,3,2024-05-02,Low
+EMP-10175,2013-01-21,Finance,Manager,PhD,Female,138000.0,0.19,1.0,25,112.0,2,2024-02-29,Low
+EMP-10176,2022-05-12,Engineering,Mid,PhD,Female,60800.0,,1.0,11,79.0,4,2024-03-19,High
+EMP-10177,2018-04-14,Operations,Senior,High School,Male,85600.0,0.08,1.7,6,,3,2024-09-11,Medium
+EMP-10178,2015-09-09,Operations,Lead,Bachelor's,Non-binary,117100.0,0.23,4.2,27,78.0,3,2024-05-18,Low
+EMP-10179,2015-05-15,R&D,Junior,High School,Non-binary,50200.0,0.03,,2,30.0,4,2024-10-01,Low
+EMP-10180,2011-04-18,Legal,Junior,,Female,48100.0,0.06,4.6,24,58.0,0,2024-10-04,Low
+EMP-10181,2010-12-04,Sales,Director,PhD,Prefer not to say,165100.0,0.19,1.9,21,84.0,3,2024-03-01,High
+EMP-10182,2012-05-28,Finance,Manager,High School,Male,135300.0,0.15,2.2,22,25.0,2,2024-06-15,Medium
+EMP-10183,2022-09-18,Sales,Director,PhD,Female,165900.0,,2.2,21,88.0,4,2024-08-27,Medium
+EMP-10184,2019-01-17,HR,Director,PhD,Female,177900.0,0.2,4.3,23,29.0,5,2024-05-05,Low
+EMP-10185,2011-02-19,HR,Mid,High School,Non-binary,72700.0,0.17,3.5,18,112.0,3,2024-03-24,Medium
+EMP-10186,2014-11-09,HR,Junior,,Male,37700.0,0.14,4.1,22,86.0,2,2024-10-18,Low
+EMP-10187,2021-02-01,Engineering,Mid,High School,Male,64600.0,0.08,3.4,20,,0,2024-10-01,High
+EMP-10188,2019-06-28,Sales,Lead,Associate,Female,116000.0,0.14,3.1,1,57.0,0,2024-01-22,High
+EMP-10189,2021-03-16,Engineering,Junior,High School,Female,46400.0,0.09,4.2,10,66.0,5,2024-09-16,Low
+EMP-10190,2013-07-14,Marketing,Senior,Bachelor's,Male,84000.0,0.14,1.4,23,82.0,4,2024-05-11,Low
+EMP-10191,2016-09-20,HR,Director,Bachelor's,Female,165900.0,0.23,3.4,10,6.0,4,2024-07-06,Low
+EMP-10192,2023-01-13,Finance,Mid,Associate,Female,63300.0,,1.2,14,113.0,5,2024-04-11,Low
+EMP-10193,2011-10-20,HR,Mid,High School,Female,59200.0,0.2,2.8,5,68.0,2,2024-05-25,Medium
+EMP-10194,2013-03-08,Sales,Senior,Master's,Female,90700.0,0.15,1.4,11,31.0,3,2024-07-25,Low
+EMP-10195,2015-02-07,Legal,Mid,Associate,Male,68800.0,,4.1,7,52.0,4,2024-10-11,High
+EMP-10196,2013-09-02,Legal,Manager,PhD,Male,136500.0,0.05,2.6,19,18.0,4,2024-04-14,Low
+EMP-10197,2013-02-06,Sales,Junior,PhD,Male,47400.0,,4.3,14,11.0,4,2024-03-06,Low
+EMP-10198,2019-12-10,R&D,Lead,Bachelor's,Male,109800.0,0.2,4.6,10,78.0,0,2024-05-02,Low
+EMP-10199,2019-01-02,R&D,Senior,Associate,Male,93100.0,0.05,1.3,22,37.0,3,2024-09-30,Low
+EMP-10200,2012-01-05,Engineering,Lead,PhD,Male,120200.0,0.06,3.0,14,68.0,5,2024-09-13,High
+EMP-10201,2010-11-24,Sales,Manager,High School,Male,123900.0,0.16,4.8,9,83.0,2,2024-05-02,Low
+EMP-10202,2019-11-10,Marketing,Junior,,Female,34300.0,,2.8,6,108.0,2,2024-02-18,Medium
+EMP-10203,2020-10-02,Operations,Junior,High School,Male,48700.0,0.15,,17,,4,2024-01-08,Low
+EMP-10204,2014-04-13,Sales,Manager,High School,Male,129300.0,,3.4,21,95.0,0,2024-02-24,Medium
+EMP-10205,2014-11-24,Finance,Lead,Associate,Male,117900.0,0.09,2.8,10,25.0,4,2024-01-28,Low
+EMP-10206,2018-05-10,Legal,Senior,PhD,Female,89100.0,0.22,1.5,25,15.0,2,2024-09-07,Medium
+EMP-10207,2010-01-23,Finance,Manager,Associate,Female,140400.0,0.23,1.9,26,26.0,3,2024-12-25,Medium
+EMP-10208,2010-09-20,Finance,Junior,Bachelor's,Male,52000.0,0.18,2.3,22,51.0,0,2024-10-19,Medium
+EMP-10209,2021-06-20,HR,Manager,PhD,Male,134300.0,0.25,4.1,4,42.0,1,2024-04-17,Low
+EMP-10210,2019-07-18,Legal,Director,Bachelor's,,165600.0,0.06,4.7,18,63.0,1,2024-12-18,Low
+EMP-10211,2013-03-18,R&D,Lead,Master's,Male,104000.0,0.07,2.6,27,46.0,4,2024-04-27,Low
+EMP-10212,2016-05-09,HR,Mid,Associate,Male,71200.0,0.24,4.4,6,86.0,1,2024-02-14,Low
+EMP-10213,2011-08-13,Legal,Senior,Master's,Male,99200.0,0.15,,15,23.0,4,2024-03-28,Medium
+EMP-10214,2011-03-30,Finance,Lead,PhD,Female,103800.0,0.23,1.9,12,82.0,0,2024-03-19,Low
+EMP-10215,2021-07-17,HR,Manager,Associate,Female,129900.0,0.01,1.9,23,94.0,4,2024-05-15,Low
+EMP-10216,2019-06-13,Legal,Lead,High School,Non-binary,119100.0,,,2,2.0,0,2024-01-16,Medium
+EMP-10217,2017-08-06,Finance,Mid,PhD,Male,62600.0,0.02,4.1,13,114.0,4,2024-08-05,Medium
+EMP-10218,2011-05-29,Finance,Senior,,Female,98700.0,0.1,1.0,6,17.0,2,2024-07-20,Low
+EMP-10219,2019-11-03,HR,Manager,Associate,Female,132400.0,0.22,3.2,11,108.0,0,2024-11-15,Medium
+EMP-10220,2010-03-14,Engineering,Director,Master's,Female,169000.0,0.11,,4,47.0,3,2024-09-22,Low
+EMP-10221,2013-12-15,Finance,Director,Associate,Non-binary,165300.0,0.02,4.4,20,99.0,0,2024-02-26,Medium
+EMP-10222,2013-09-09,Engineering,Manager,High School,Male,124700.0,0.11,5.0,19,15.0,0,2024-05-29,Low
+EMP-10223,2018-07-01,Marketing,Director,Associate,Male,177600.0,0.1,1.8,18,30.0,2,2024-10-18,Low
+EMP-10224,2016-08-19,HR,Senior,Bachelor's,Female,90700.0,0.12,2.8,1,119.0,4,2024-03-02,Low
+EMP-10225,2010-02-04,Sales,Mid,Associate,Male,72400.0,0.18,,28,78.0,4,2024-02-13,Medium
+EMP-10226,2019-12-10,R&D,Manager,Bachelor's,Male,137100.0,0.05,3.4,9,107.0,1,2024-12-05,Medium
+EMP-10227,2022-08-21,R&D,Mid,Associate,Female,61300.0,0.03,4.5,14,54.0,5,2024-10-23,Low
+EMP-10228,2017-10-22,R&D,Junior,Associate,Male,34400.0,0.22,4.8,8,,5,2024-04-21,Low
+EMP-10229,2022-09-24,HR,Mid,High School,Female,71800.0,,1.4,8,,5,2024-04-29,Low
+EMP-10230,2014-05-20,R&D,Senior,High School,Female,102700.0,,2.1,18,91.0,5,2024-05-04,High
+EMP-10231,2020-07-07,Sales,Senior,Master's,,92400.0,0.02,1.4,14,57.0,3,2024-10-31,Low
+EMP-10232,2011-11-28,Marketing,Senior,Associate,Female,85200.0,0.18,4.0,1,72.0,4,2024-09-19,Low
+EMP-10233,2022-03-04,Legal,Senior,Associate,Female,88700.0,0.23,1.5,12,5.0,1,2024-12-29,Medium
+EMP-10234,2017-04-05,Marketing,Senior,Bachelor's,Male,91200.0,0.21,2.4,6,85.0,2,2024-02-01,Medium
+EMP-10235,2021-08-04,Operations,Mid,Associate,Female,78700.0,0.18,3.5,24,90.0,5,2024-05-05,Low
+EMP-10236,2020-04-30,Finance,Mid,Master's,Female,68800.0,0.2,2.2,27,115.0,5,2024-02-07,Medium
+EMP-10237,2019-08-11,Legal,Junior,Bachelor's,Female,34200.0,0.07,,28,,1,2024-11-02,Low
+EMP-10238,2021-12-29,HR,Manager,High School,Female,125900.0,0.04,,23,36.0,0,2024-06-21,High
+EMP-10239,2013-06-18,Sales,Director,High School,Male,177600.0,0.03,2.5,12,19.0,1,2024-02-20,High
+EMP-10240,2019-01-01,Engineering,Lead,PhD,Female,117800.0,0.1,5.0,26,95.0,1,2024-01-22,Low
+EMP-10241,2011-10-30,Legal,Director,Bachelor's,Female,170400.0,0.2,1.1,8,3.0,3,2024-04-20,Low
+EMP-10242,2011-05-07,Finance,Mid,Associate,Male,62900.0,0.22,4.7,19,,0,2024-11-12,Low
+EMP-10243,2017-06-08,R&D,Senior,PhD,Male,98700.0,0.06,4.7,28,2.0,3,2024-12-20,Medium
+EMP-10244,2016-08-30,Sales,Manager,Master's,Female,122400.0,0.09,3.2,4,60.0,3,2024-03-30,Medium
+EMP-10245,2022-09-03,Marketing,Manager,PhD,Female,142600.0,0.06,3.2,7,19.0,2,2024-06-04,Low
+EMP-10246,2022-10-23,Engineering,Manager,Bachelor's,Male,143400.0,0.14,1.8,0,107.0,2,2024-06-24,Low
+EMP-10247,2019-06-12,Engineering,Manager,High School,Female,138900.0,0.01,1.1,17,35.0,5,2024-02-13,High
+EMP-10248,2018-04-08,Marketing,Manager,Associate,Female,122800.0,0.1,1.1,20,59.0,3,2024-08-24,Low
+EMP-10249,2020-10-13,Finance,Senior,Bachelor's,Female,103100.0,0.07,2.1,0,60.0,2,2024-10-30,Low
+EMP-10250,2013-01-26,R&D,Mid,High School,Male,72400.0,0.2,3.5,8,60.0,4,2024-04-03,Low
+EMP-10251,2016-09-17,Marketing,Manager,Master's,Male,144500.0,0.09,4.8,3,23.0,1,2024-01-06,Low
+EMP-10252,2017-09-14,Sales,Manager,Bachelor's,Female,123100.0,0.07,3.2,17,15.0,5,2024-06-11,High
+EMP-10253,2021-11-24,R&D,Junior,Bachelor's,Female,49600.0,0.11,1.9,8,6.0,3,2024-07-29,High
+EMP-10254,2010-08-17,R&D,Junior,Associate,Male,53200.0,0.14,1.5,24,72.0,2,2024-07-27,Medium
+EMP-10255,2014-03-28,Marketing,Director,High School,Female,169700.0,0.14,3.2,29,70.0,1,2024-01-17,Low
+EMP-10256,2014-12-28,Marketing,Senior,PhD,Male,98400.0,0.04,4.3,25,48.0,0,2024-02-15,Medium
+EMP-10257,2020-01-13,Finance,Lead,PhD,Female,123800.0,0.17,4.2,2,22.0,4,2024-05-05,Medium
+EMP-10258,2011-11-30,Sales,Senior,Master's,Female,101800.0,0.01,2.3,25,96.0,1,2024-03-16,Medium
+EMP-10259,2013-04-18,Operations,Senior,High School,Female,86600.0,0.23,1.8,23,7.0,1,2024-09-18,Low
+EMP-10260,2022-12-27,Operations,Senior,,Female,103300.0,0.16,1.1,14,5.0,0,2024-12-13,Low
+EMP-10261,2018-05-06,HR,Director,High School,Male,173900.0,0.09,,4,110.0,2,2024-03-26,Medium
+EMP-10262,2022-06-12,Sales,Mid,PhD,Female,61800.0,0.16,3.4,11,,5,2024-03-18,Low
+EMP-10263,2023-01-10,Marketing,Lead,Master's,Female,114700.0,0.14,2.7,19,10.0,5,2024-06-25,Low
+EMP-10264,2019-05-04,Operations,Director,Bachelor's,Male,172600.0,0.15,2.7,13,38.0,3,2024-03-12,High
+EMP-10265,2018-01-28,HR,Junior,Associate,Male,33400.0,0.16,3.9,12,32.0,0,2024-04-14,Medium
+EMP-10266,2021-11-20,R&D,Manager,PhD,,134000.0,0.06,3.0,25,110.0,2,2024-04-11,Low
+EMP-10267,2015-05-23,Engineering,Lead,High School,Male,123500.0,0.01,3.8,13,94.0,5,2024-04-22,Low
+EMP-10268,2022-09-01,Finance,Manager,Master's,Male,143300.0,0.16,1.1,27,91.0,1,2024-12-17,Low
+EMP-10269,2019-11-25,R&D,Director,High School,Male,168000.0,0.21,3.0,19,16.0,3,2024-06-18,High
+EMP-10270,2018-11-21,R&D,Lead,PhD,Male,124900.0,0.01,3.4,17,118.0,2,2024-12-28,Low
+EMP-10271,2015-11-09,Marketing,Junior,Associate,,39400.0,0.11,4.4,10,52.0,3,2024-02-04,Low
+EMP-10272,2012-07-24,Legal,Mid,PhD,Female,57500.0,0.09,,25,57.0,3,2024-01-02,Low
+EMP-10273,2015-02-05,R&D,Lead,PhD,Male,121600.0,0.04,2.7,21,87.0,3,2024-09-02,High
+EMP-10274,2014-01-18,HR,Senior,,Female,97000.0,0.02,4.9,11,83.0,2,2024-01-20,High
+EMP-10275,2014-07-20,Engineering,Senior,PhD,Female,84700.0,0.22,4.6,17,33.0,5,2024-09-11,Medium
+EMP-10276,2022-04-18,Engineering,Director,,Female,176700.0,0.07,4.1,1,63.0,5,2024-09-26,Low
+EMP-10277,2012-07-08,Legal,Manager,High School,Male,129100.0,0.06,4.0,12,110.0,2,2024-06-17,Low
+EMP-10278,2014-12-18,Marketing,Junior,High School,Female,33200.0,0.25,4.3,3,114.0,4,2024-02-05,Low
+EMP-10279,2015-09-08,R&D,Lead,High School,Male,111300.0,0.03,2.0,9,34.0,2,2024-11-04,Low
+EMP-10280,2012-02-17,Legal,Senior,High School,Prefer not to say,96400.0,0.16,2.6,10,27.0,2,2024-11-21,Low
+EMP-10281,2014-03-17,Sales,Junior,Master's,Male,36600.0,0.09,2.3,15,85.0,0,2024-02-02,Low
+EMP-10282,2021-11-27,Engineering,Mid,Master's,Female,63300.0,,3.1,15,31.0,3,2024-04-11,Low
+EMP-10283,2015-08-23,R&D,Director,PhD,Male,172000.0,0.23,1.2,25,35.0,3,2024-11-16,Low
+EMP-10284,2020-12-22,Operations,Lead,PhD,Male,112300.0,0.19,1.5,17,86.0,4,2024-01-26,Low
+EMP-10285,2015-02-03,R&D,Mid,PhD,Male,76100.0,0.07,1.8,9,27.0,5,2024-07-06,Low
+EMP-10286,2022-06-05,HR,Lead,Associate,Female,108500.0,,3.5,8,,4,2024-07-29,Low
+EMP-10287,2020-04-11,R&D,Junior,High School,Female,34200.0,0.11,4.2,9,106.0,4,2024-02-17,Medium
+EMP-10288,2015-01-30,Finance,Junior,Bachelor's,,45200.0,0.11,,14,115.0,0,2024-11-29,High
+EMP-10289,2022-02-20,Marketing,Manager,Bachelor's,Male,122800.0,0.14,3.2,5,107.0,2,2024-06-27,Low
+EMP-10290,2022-11-05,Sales,Mid,Bachelor's,Male,79300.0,0.24,2.9,17,38.0,5,2024-10-25,Low
+EMP-10291,2012-07-14,Engineering,Lead,,Male,107400.0,0.18,2.7,14,44.0,3,2024-03-24,Low
+EMP-10292,2021-07-06,HR,Mid,PhD,Female,57400.0,0.12,3.1,18,86.0,2,2024-09-09,Medium
+EMP-10293,2023-03-14,Legal,Manager,PhD,Female,133800.0,0.0,4.6,16,56.0,1,2024-12-10,Low
+EMP-10294,2022-09-18,Finance,Mid,Bachelor's,Female,72900.0,,1.4,17,13.0,0,2024-09-11,Low
+EMP-10295,2011-10-20,Finance,Manager,Master's,Female,129600.0,0.07,3.6,8,101.0,1,2024-03-10,Medium
+EMP-10296,2019-02-25,Finance,Director,Bachelor's,Female,164200.0,0.07,4.8,28,13.0,2,2024-05-12,Low
+EMP-10297,2011-08-25,Sales,Junior,PhD,Female,47600.0,,2.0,20,24.0,1,2024-12-21,Medium
+EMP-10298,2019-11-10,Operations,Manager,PhD,Male,134200.0,0.24,1.2,9,95.0,1,2024-06-04,Low
+EMP-10299,2013-01-05,HR,Director,High School,Male,178800.0,0.06,1.9,28,99.0,0,2024-01-28,High
+EMP-10300,2021-04-14,Engineering,Director,High School,Female,178100.0,0.13,1.9,5,104.0,2,2024-08-26,Medium
+EMP-10301,2022-05-08,Legal,Senior,Master's,Male,104000.0,0.23,1.6,11,51.0,1,2024-12-14,Low
+EMP-10302,2021-05-18,R&D,Director,Bachelor's,Female,169000.0,0.14,1.8,4,69.0,3,2024-10-29,Medium
+EMP-10303,2012-07-27,Finance,Lead,Bachelor's,Male,122400.0,0.02,4.4,5,82.0,1,2024-03-25,Low
+EMP-10304,2021-07-22,R&D,Director,Associate,Male,169100.0,0.17,3.6,3,45.0,3,2024-08-10,Medium
+EMP-10305,2012-04-16,Sales,Junior,Master's,Male,38300.0,0.07,3.8,7,17.0,4,2024-07-16,Low
+EMP-10306,2020-04-26,R&D,Mid,Master's,Male,72400.0,0.0,4.2,12,105.0,3,2024-11-23,Low
+EMP-10307,2018-10-16,Finance,Junior,PhD,,38600.0,0.22,4.2,0,19.0,3,2024-09-19,Low
+EMP-10308,2022-03-17,Legal,Lead,PhD,Male,112200.0,0.24,2.4,29,20.0,0,2024-06-02,Low
+EMP-10309,2013-11-03,Finance,Junior,PhD,Female,47000.0,0.06,1.6,23,42.0,4,2024-10-30,Low
+EMP-10310,2014-04-19,Legal,Lead,High School,Prefer not to say,110900.0,0.02,1.3,2,86.0,0,2024-09-29,Medium
+EMP-10311,2022-08-18,Engineering,Lead,PhD,Non-binary,109400.0,0.01,2.5,15,78.0,2,2024-12-01,Low
+EMP-10312,2020-08-28,Sales,Senior,Associate,Male,92500.0,0.23,1.9,29,22.0,2,2024-11-19,Low
+EMP-10313,2012-02-02,Sales,Senior,High School,Female,83000.0,0.18,3.7,14,26.0,5,2024-02-29,Low
+EMP-10314,2013-01-25,Operations,Junior,PhD,Male,45300.0,0.05,1.2,23,83.0,1,2024-02-04,High
+EMP-10315,2018-05-17,Sales,Junior,PhD,Non-binary,37800.0,0.09,2.7,29,33.0,0,2024-05-09,Medium
+EMP-10316,2011-04-17,Sales,Lead,,Male,113200.0,0.02,3.8,1,96.0,5,2024-04-28,Medium
+EMP-10317,2019-01-26,Engineering,Junior,PhD,Male,45500.0,0.21,2.6,19,21.0,4,2024-05-02,Medium
+EMP-10318,2015-04-25,Marketing,Senior,Associate,Male,103900.0,0.14,4.6,1,118.0,5,2024-04-11,Low
+EMP-10319,2011-01-22,Sales,Director,Master's,Male,162800.0,0.06,1.0,27,99.0,2,2024-10-27,Low
+EMP-10320,2018-05-09,HR,Manager,High School,Male,140600.0,0.07,4.8,18,99.0,1,2024-08-22,High
+EMP-10321,2010-12-08,Operations,Mid,Associate,Male,69300.0,0.07,,17,82.0,4,2024-10-14,High
+EMP-10322,2010-05-05,Sales,Junior,Master's,Male,37300.0,0.19,3.4,2,73.0,3,2024-05-01,Low
+EMP-10323,2023-05-01,Legal,Mid,Bachelor's,Male,64800.0,,1.3,13,51.0,1,2024-09-09,Low
+EMP-10324,2014-10-12,Engineering,Mid,Bachelor's,Male,57000.0,0.13,4.9,16,91.0,5,2024-10-21,High
+EMP-10325,2020-04-23,Operations,Lead,Master's,Female,107100.0,0.01,1.7,8,,2,2024-12-16,High
+EMP-10326,2016-09-23,Finance,Senior,Master's,Female,101900.0,,4.7,20,54.0,0,2024-12-29,Medium
+EMP-10327,2012-09-14,Legal,Senior,,Male,90400.0,0.22,3.5,23,13.0,5,2024-01-26,Medium
+EMP-10328,2013-01-15,HR,Director,High School,Male,181900.0,,4.8,24,49.0,0,2024-07-19,Low
+EMP-10329,2019-07-22,HR,Senior,Bachelor's,Prefer not to say,96900.0,0.23,3.3,23,93.0,4,2024-12-05,Low
+EMP-10330,2011-12-20,Engineering,Director,Associate,Female,177600.0,0.21,4.7,13,118.0,2,2024-07-21,Low
+EMP-10331,2014-07-10,Operations,Manager,Bachelor's,Female,140400.0,0.03,2.3,10,44.0,1,2024-11-16,Low
+EMP-10332,2022-08-17,R&D,Lead,Master's,Female,120000.0,0.03,1.3,1,55.0,5,2024-12-15,Low
+EMP-10333,2012-07-28,R&D,Lead,PhD,Male,114700.0,,4.7,15,,3,2024-06-24,Medium
+EMP-10334,2017-12-15,HR,Lead,Bachelor's,Female,106500.0,0.11,4.6,16,21.0,4,2024-07-13,Low
+EMP-10335,2013-10-08,Operations,Manager,Associate,Male,130600.0,0.06,4.6,2,43.0,3,2024-07-26,Medium
+EMP-10336,2018-03-26,Marketing,Senior,PhD,Male,89900.0,,4.4,7,,4,2024-02-14,Low
+EMP-10337,2017-08-28,Finance,Junior,High School,,50400.0,0.1,3.1,21,6.0,1,2024-04-26,Low
+EMP-10338,2010-04-06,Sales,Senior,High School,Female,85900.0,0.1,3.8,21,106.0,5,2024-11-30,Low
+EMP-10339,2015-09-26,Finance,Junior,Associate,Male,41000.0,,,18,,0,2024-12-10,Low
+EMP-10340,2012-10-02,Operations,Junior,PhD,Female,45600.0,0.24,3.6,3,18.0,4,2024-06-22,Low
+EMP-10341,2015-05-15,Finance,Lead,High School,Female,106900.0,0.24,,18,2.0,1,2024-12-05,Low
+EMP-10342,2018-05-14,R&D,Lead,Bachelor's,Female,106500.0,0.0,3.1,16,26.0,2,2024-10-31,Low
+EMP-10343,2021-07-05,Sales,Director,High School,Female,179100.0,0.23,2.3,18,8.0,4,2024-08-06,Low
+EMP-10344,2021-10-08,R&D,Lead,PhD,Female,106400.0,,4.4,20,93.0,4,2024-06-05,Medium
+EMP-10345,2018-01-03,Operations,Senior,Master's,Male,101100.0,0.12,2.5,26,70.0,1,2024-01-03,Medium
+EMP-10346,2020-12-19,Engineering,Mid,PhD,Male,67500.0,0.15,4.6,1,98.0,1,2024-06-02,Low
+EMP-10347,2010-12-23,HR,Senior,High School,,83900.0,0.18,1.5,27,23.0,1,2024-09-07,Medium
+EMP-10348,2017-12-05,Finance,Lead,PhD,Male,107500.0,0.01,4.6,25,46.0,5,2024-11-05,Medium
+EMP-10349,2012-03-27,R&D,Junior,Bachelor's,Female,39700.0,0.17,2.2,28,15.0,3,2024-01-09,Low
+EMP-10350,2017-12-24,Finance,Senior,Bachelor's,Female,95900.0,0.01,2.9,24,68.0,4,2024-02-26,High
+EMP-10351,2022-04-24,Finance,Director,Associate,Female,167500.0,0.02,3.0,9,55.0,3,2024-08-31,Low
+EMP-10352,2017-05-05,Finance,Lead,,Female,104600.0,0.12,1.2,29,98.0,5,2024-08-02,Medium
+EMP-10353,2012-07-14,Operations,Lead,Master's,Female,121200.0,0.19,1.0,12,10.0,5,2024-07-29,Medium
+EMP-10354,2010-10-07,R&D,Manager,Master's,Male,136800.0,0.21,2.2,5,84.0,5,2024-11-05,Medium
+EMP-10355,2015-06-10,Finance,Lead,Bachelor's,Female,115400.0,0.02,3.5,3,91.0,5,2024-06-02,Low
+EMP-10356,2015-09-17,Sales,Junior,PhD,Female,40300.0,0.08,4.9,28,82.0,0,2024-08-22,Medium
+EMP-10357,2017-12-12,HR,Director,PhD,Male,180700.0,0.24,2.5,6,103.0,0,2024-03-15,Low
+EMP-10358,2014-05-02,Finance,Manager,High School,Female,143700.0,0.13,3.1,10,,0,2024-06-20,Medium
+EMP-10359,2020-01-08,R&D,Manager,High School,Male,129300.0,0.09,2.9,20,108.0,4,2024-10-06,Medium
+EMP-10360,2010-06-24,R&D,Mid,Associate,Male,61900.0,0.03,1.2,22,52.0,2,2024-04-19,Low
+EMP-10361,2023-01-15,Operations,Junior,High School,Male,40800.0,0.04,2.9,14,,5,2024-02-12,Low
+EMP-10362,2019-11-13,Marketing,Manager,Associate,Female,135400.0,0.19,3.3,27,93.0,2,2024-06-30,Medium
+EMP-10363,2012-07-19,Legal,Senior,High School,Male,85100.0,0.13,4.3,0,82.0,5,2024-07-20,Medium
+EMP-10364,2010-06-21,Engineering,Mid,Associate,Female,58700.0,0.2,4.4,3,25.0,4,2024-08-26,Low
+EMP-10365,2020-12-12,Operations,Mid,Master's,Male,71300.0,,1.5,13,101.0,5,2024-11-13,Low
+EMP-10366,2012-06-23,R&D,Junior,Associate,Male,35400.0,,2.4,4,102.0,3,2024-01-17,Low
+EMP-10367,2011-08-28,Operations,Senior,Master's,Prefer not to say,82600.0,0.21,3.1,6,104.0,0,2024-05-29,Medium
+EMP-10368,2015-10-18,Sales,Lead,Master's,Male,111500.0,0.17,,4,33.0,4,2024-06-20,Low
+EMP-10369,2014-02-26,Operations,Director,PhD,Female,164300.0,0.12,1.4,1,2.0,1,2024-02-15,Low
+EMP-10370,2013-05-15,Operations,Senior,Associate,Female,91500.0,0.08,3.8,0,62.0,0,2024-05-18,Low
+EMP-10371,2022-06-07,Engineering,Manager,Bachelor's,,127700.0,0.19,2.8,22,97.0,5,2024-04-05,Low
+EMP-10372,2016-07-03,Engineering,Mid,PhD,Male,61500.0,0.12,1.5,22,119.0,5,2024-12-25,Low
+EMP-10373,2018-07-17,Operations,Junior,Associate,Female,45800.0,0.1,2.0,4,0.0,5,2024-08-14,Medium
+EMP-10374,2013-03-27,Marketing,Lead,Master's,Non-binary,104400.0,0.04,1.2,23,,2,2024-07-27,Low
+EMP-10375,2023-03-13,Marketing,Manager,Master's,Male,139300.0,0.19,2.8,12,5.0,1,2024-12-04,Medium
+EMP-10376,2015-08-13,Legal,Mid,Associate,Prefer not to say,69300.0,0.05,1.8,6,47.0,1,2024-10-02,High
+EMP-10377,2022-01-28,R&D,Lead,PhD,Male,111800.0,0.19,3.9,27,72.0,2,2024-05-03,Low
+EMP-10378,2016-01-11,Marketing,Lead,High School,Female,123700.0,0.25,3.7,20,118.0,5,2024-03-02,Low
+EMP-10379,2019-12-17,Marketing,Lead,Bachelor's,Male,123400.0,,3.8,19,25.0,0,2024-04-20,Low
+EMP-10380,2010-04-24,Engineering,Manager,Master's,Female,138800.0,0.05,1.6,1,89.0,0,2024-12-15,Low
+EMP-10381,2010-07-22,Finance,Director,PhD,Female,181100.0,,3.3,22,7.0,1,2024-11-17,High
+EMP-10382,2017-09-05,Sales,Senior,Bachelor's,Female,85800.0,0.13,1.7,16,84.0,5,2024-01-22,Low
+EMP-10383,2013-05-21,Engineering,Manager,Master's,Female,136600.0,0.17,3.0,0,103.0,2,2024-07-11,Medium
+EMP-10384,2020-12-04,Finance,Mid,PhD,Male,65000.0,0.16,4.6,25,35.0,5,2024-04-04,Low
+EMP-10385,2021-04-03,Legal,Mid,Associate,Male,73400.0,0.14,4.7,7,3.0,1,2024-07-18,Low
+EMP-10386,2020-11-08,Operations,Manager,,Male,143600.0,0.1,4.2,1,44.0,5,2024-05-18,Low
+EMP-10387,2010-09-17,Legal,Manager,Associate,Female,139400.0,0.18,1.4,23,70.0,2,2024-06-19,Low
+EMP-10388,2010-10-18,Sales,Lead,PhD,Female,121200.0,0.12,2.6,28,90.0,3,2024-03-18,High
+EMP-10389,2011-09-04,Engineering,Senior,Bachelor's,Female,104300.0,0.2,2.8,8,79.0,3,2024-07-04,Medium
+EMP-10390,2014-02-02,Legal,Manager,,Male,134100.0,0.22,2.9,21,52.0,4,2024-03-26,Low
+EMP-10391,2018-10-21,HR,Manager,Bachelor's,Male,139100.0,0.2,4.0,20,1.0,4,2024-04-24,Low
+EMP-10392,2020-09-02,HR,Lead,Master's,Female,120300.0,0.23,2.5,29,,3,2024-06-28,Low
+EMP-10393,2013-07-20,Operations,Manager,PhD,Female,128300.0,0.2,1.2,9,103.0,5,2024-11-08,Medium
+EMP-10394,2020-01-23,R&D,Director,Bachelor's,Male,176300.0,0.22,3.5,23,118.0,1,2024-07-20,Low
+EMP-10395,2018-10-28,Finance,Senior,Master's,Male,84500.0,0.18,1.7,19,6.0,4,2024-06-06,Medium
+EMP-10396,2015-02-21,Finance,Mid,Bachelor's,Female,76400.0,0.03,2.1,0,31.0,3,2024-09-12,Low
+EMP-10397,2021-08-06,Legal,Senior,Associate,Male,90300.0,0.15,1.4,1,36.0,4,2024-06-12,Low
+EMP-10398,2011-09-14,R&D,Director,Bachelor's,,180700.0,0.1,2.1,18,44.0,5,2024-09-16,Low
+EMP-10399,2018-02-04,HR,Junior,Bachelor's,Male,44500.0,0.23,1.7,17,,4,2024-11-06,High
+EMP-10400,2017-05-21,HR,Junior,High School,Non-binary,37900.0,0.07,1.6,14,59.0,3,2024-04-06,Low
+EMP-10401,2021-11-06,Finance,Lead,Bachelor's,Female,124700.0,0.18,3.5,10,88.0,3,2024-03-24,Low
+EMP-10402,2014-11-08,Operations,Mid,Associate,Female,65400.0,0.07,2.8,18,0.0,4,2024-07-19,Low
+EMP-10403,2016-12-24,Sales,Senior,Master's,Female,103100.0,0.06,1.5,24,37.0,0,2024-09-26,High
+EMP-10404,2012-12-08,Engineering,Junior,PhD,Male,39800.0,0.06,3.2,3,83.0,2,2024-01-05,Low
+EMP-10405,2023-03-20,R&D,Lead,High School,Female,115500.0,,4.0,10,84.0,4,2024-01-01,Low
+EMP-10406,2010-12-24,Marketing,Senior,Associate,Male,94000.0,0.13,1.5,21,9.0,1,2024-03-30,Low
+EMP-10407,2014-09-28,HR,Junior,,Female,49200.0,0.24,2.0,13,3.0,5,2024-02-23,Medium
+EMP-10408,2013-10-22,Engineering,Junior,PhD,Female,40400.0,0.2,3.8,26,26.0,3,2024-05-05,Medium
+EMP-10409,2018-02-05,HR,Mid,High School,Female,79200.0,0.05,4.1,8,34.0,3,2024-08-20,Low
+EMP-10410,2020-06-28,Operations,Senior,High School,Female,84400.0,0.04,3.4,12,99.0,4,2024-10-16,Low
+EMP-10411,2017-06-07,Finance,Lead,Master's,Male,125000.0,0.02,4.7,19,66.0,4,2024-12-02,Low
+EMP-10412,2022-12-11,Legal,Director,High School,Male,163900.0,0.04,2.3,8,20.0,4,2024-05-08,Low
+EMP-10413,2020-07-04,Legal,Director,PhD,Female,182500.0,0.25,4.4,15,97.0,3,2024-06-29,High
+EMP-10414,2018-09-13,Legal,Manager,High School,Prefer not to say,144400.0,0.08,3.9,0,92.0,2,2024-12-12,High
+EMP-10415,2017-12-07,Finance,Lead,Associate,Male,117500.0,0.06,4.5,29,96.0,2,2024-02-21,Low
+EMP-10416,2017-01-19,Sales,Director,PhD,Female,169000.0,0.23,2.3,26,85.0,5,2024-10-09,Low
+EMP-10417,2010-02-19,R&D,Lead,High School,Male,124000.0,0.12,2.8,8,51.0,0,2024-09-20,High
+EMP-10418,2017-07-11,Finance,Senior,High School,Non-binary,92800.0,,1.5,13,50.0,0,2024-12-07,High
+EMP-10419,2022-12-28,Finance,Junior,PhD,Male,32300.0,0.05,1.9,0,2.0,3,2024-07-11,Low
+EMP-10420,2020-11-04,Engineering,Manager,Associate,Female,136600.0,0.06,4.0,11,72.0,5,2024-03-10,Low
+EMP-10421,2017-06-27,R&D,Senior,Associate,Female,97600.0,0.16,3.1,28,83.0,4,2024-05-09,Low
+EMP-10422,2015-01-31,R&D,Mid,Bachelor's,Female,68100.0,0.11,2.1,26,61.0,1,2024-12-07,Medium
+EMP-10423,2010-06-18,Finance,Director,Associate,,184200.0,0.19,1.2,0,,5,2024-08-01,Low
+EMP-10424,2015-07-31,Sales,Senior,Associate,Male,103200.0,,1.3,28,110.0,1,2024-02-08,Low
+EMP-10425,2020-04-21,Finance,Senior,High School,Male,87900.0,0.11,1.1,21,,2,2024-09-20,High
+EMP-10426,2011-01-07,Finance,Director,Bachelor's,Male,177300.0,0.16,,26,,2,2024-11-15,Low
+EMP-10427,2013-04-09,Marketing,Manager,Bachelor's,Female,132600.0,0.1,2.1,12,116.0,5,2024-06-18,Low
+EMP-10428,2013-03-22,HR,Manager,PhD,,129600.0,0.12,4.1,9,14.0,1,2024-08-15,Low
+EMP-10429,2016-02-12,Sales,Mid,,Male,71100.0,,4.5,26,35.0,3,2024-05-16,Medium
+EMP-10430,2018-08-16,Legal,Senior,PhD,Non-binary,84900.0,0.03,4.3,8,27.0,0,2024-05-31,Low
+EMP-10431,2016-02-18,Legal,Director,Associate,Male,168800.0,0.11,3.5,11,7.0,3,2024-07-04,Medium
+EMP-10432,2011-06-05,Finance,Junior,Associate,Male,49800.0,0.04,1.7,28,88.0,0,2024-06-05,High
+EMP-10433,2021-03-20,Finance,Senior,Associate,Non-binary,95400.0,0.23,2.4,4,17.0,3,2024-12-04,Medium
+EMP-10434,2015-11-17,Legal,Mid,Bachelor's,Female,70100.0,0.07,2.5,2,35.0,3,2024-12-29,Low
+EMP-10435,2018-01-02,Engineering,Director,PhD,Male,166400.0,0.13,3.0,14,20.0,5,2024-11-19,High
+EMP-10436,2022-10-05,Legal,Director,PhD,Female,169600.0,0.01,4.7,2,85.0,4,2024-12-17,High
+EMP-10437,2022-11-12,R&D,Lead,PhD,Female,114200.0,0.16,4.8,27,13.0,5,2024-07-11,High
+EMP-10438,2021-11-05,Sales,Manager,High School,Male,133800.0,0.11,1.9,21,,1,2024-09-24,Low
+EMP-10439,2023-02-09,R&D,Manager,High School,Prefer not to say,134500.0,0.09,,18,,5,2024-12-12,Low
+EMP-10440,2013-02-13,Engineering,Junior,,Female,53700.0,0.21,1.0,10,81.0,1,2024-01-31,Low
+EMP-10441,2010-10-07,HR,Director,PhD,Male,178200.0,0.07,3.8,26,55.0,3,2024-12-01,Low
+EMP-10442,2022-07-29,Marketing,Mid,High School,Male,69000.0,0.23,3.7,5,,2,2024-09-12,Low
+EMP-10443,2012-02-20,Engineering,Manager,PhD,,126200.0,0.01,2.7,26,104.0,0,2024-09-09,Low
+EMP-10444,2014-06-21,HR,Mid,Master's,Female,64300.0,0.06,,22,53.0,2,2024-07-05,Low
+EMP-10445,2019-07-24,Operations,Mid,Associate,Female,78000.0,0.04,2.0,3,84.0,2,2024-12-20,Low
+EMP-10446,2022-10-28,Finance,Senior,Bachelor's,Non-binary,89000.0,0.03,5.0,9,24.0,3,2024-01-10,Low
+EMP-10447,2012-03-21,Finance,Lead,Bachelor's,Male,110700.0,0.08,4.0,16,58.0,3,2024-01-30,Low
+EMP-10448,2018-02-20,Marketing,Junior,Associate,Male,35700.0,0.19,2.6,23,118.0,3,2024-12-15,Medium
+EMP-10449,2016-04-25,Marketing,Mid,Bachelor's,Male,58200.0,,2.6,4,65.0,1,2024-03-01,Low
+EMP-10450,2015-05-05,Legal,Lead,,Female,118700.0,0.13,4.4,18,60.0,4,2024-10-12,Low
+EMP-10451,2013-03-02,Operations,Manager,Master's,Female,126500.0,0.04,1.7,19,53.0,0,2024-07-12,Medium
+EMP-10452,2011-08-14,Operations,Director,Master's,Female,175300.0,0.02,4.2,28,22.0,1,2024-08-17,Low
+EMP-10453,2016-10-26,Engineering,Senior,Master's,Male,102200.0,0.0,,15,10.0,4,2024-06-08,Low
+EMP-10454,2017-08-29,Operations,Lead,Bachelor's,Female,115800.0,,3.2,8,41.0,2,2024-09-19,Low
+EMP-10455,2018-02-18,HR,Manager,Master's,Female,143200.0,0.04,5.0,29,58.0,4,2024-03-18,Medium
+EMP-10456,2021-05-31,Engineering,Director,Bachelor's,Prefer not to say,164500.0,0.24,3.9,9,107.0,2,2024-11-06,Medium
+EMP-10457,2015-07-02,Operations,Mid,Associate,Female,72400.0,0.04,4.8,10,8.0,4,2024-08-22,Medium
+EMP-10458,2017-11-10,HR,Lead,Master's,Non-binary,121100.0,0.13,,15,101.0,5,2024-01-18,Low
+EMP-10459,2022-05-09,Operations,Director,High School,Male,176900.0,0.13,,7,8.0,0,2024-06-15,Low
+EMP-10460,2019-02-08,HR,Lead,Bachelor's,Female,112900.0,0.15,1.8,6,99.0,4,2024-09-04,Medium
+EMP-10461,2017-07-02,Finance,Senior,Master's,Male,100900.0,0.24,2.9,19,48.0,4,2024-03-11,Low
+EMP-10462,2011-05-11,Finance,Manager,Master's,Male,139800.0,0.14,1.0,12,4.0,2,2024-01-04,Low
+EMP-10463,2017-07-25,R&D,Lead,High School,Non-binary,113700.0,,2.6,21,50.0,4,2024-05-18,Medium
+EMP-10464,2017-04-01,HR,Mid,PhD,Male,68300.0,0.12,2.9,26,118.0,3,2024-03-14,Medium
+EMP-10465,2020-10-19,Legal,Lead,Bachelor's,Male,116300.0,0.21,2.5,20,,0,2024-04-06,High
+EMP-10466,2021-04-19,Finance,Senior,Bachelor's,Prefer not to say,92300.0,0.14,2.4,4,81.0,1,2024-10-27,High
+EMP-10467,2018-03-28,Marketing,Junior,Associate,Male,37700.0,0.01,4.5,12,50.0,0,2024-10-22,Low
+EMP-10468,2015-06-18,Marketing,Director,High School,Male,177800.0,0.14,3.7,27,75.0,5,2024-09-17,Medium
+EMP-10469,2015-04-08,R&D,Director,Associate,Female,184700.0,0.17,1.9,20,115.0,5,2024-01-24,Low
+EMP-10470,2017-10-31,Sales,Lead,Bachelor's,Female,102600.0,0.05,2.4,22,84.0,3,2024-07-19,Low
+EMP-10471,2013-05-20,Finance,Manager,Associate,Female,144200.0,0.16,3.0,2,,5,2024-03-29,Low
+EMP-10472,2013-01-15,Engineering,Director,High School,Non-binary,184100.0,,2.6,19,72.0,2,2024-10-28,Medium
+EMP-10473,2014-08-10,Operations,Senior,PhD,Male,87300.0,0.21,1.3,18,85.0,2,2024-11-24,Low
+EMP-10474,2010-03-01,Legal,Manager,High School,Female,134900.0,,1.4,1,49.0,0,2024-05-23,High
+EMP-10475,2020-03-01,Operations,Director,Bachelor's,Male,174100.0,0.23,,29,27.0,1,2024-11-17,Medium
+EMP-10476,2019-01-31,HR,Senior,High School,Male,85800.0,,2.0,7,113.0,3,2024-05-03,Medium
+EMP-10477,2019-12-29,Finance,Senior,Bachelor's,Male,102600.0,0.06,4.9,18,14.0,4,2024-05-29,Low
+EMP-10478,2018-11-19,Operations,Lead,Master's,Male,111600.0,,3.0,5,35.0,4,2024-10-05,Medium
+EMP-10479,2022-10-04,R&D,Junior,High School,Male,50000.0,0.21,3.2,2,,3,2024-01-14,Low
+EMP-10480,2016-10-13,HR,Senior,Bachelor's,,103000.0,0.05,4.4,1,118.0,4,2024-08-03,Low
+EMP-10481,2013-10-15,Marketing,Mid,High School,Female,63700.0,0.22,3.4,19,108.0,4,2024-10-07,Low
+EMP-10482,2023-03-01,Engineering,Junior,High School,Male,52800.0,0.04,,12,91.0,1,2024-07-27,Low
+EMP-10483,2011-06-28,Finance,Manager,Associate,Male,130100.0,,4.2,5,35.0,1,2024-11-28,Low
+EMP-10484,2013-03-24,Finance,Manager,Master's,,141400.0,,4.8,1,48.0,1,2024-02-13,High
+EMP-10485,2016-10-05,Operations,Senior,Bachelor's,Male,88400.0,0.16,,27,96.0,3,2024-12-12,Low
+EMP-10486,2016-12-02,Sales,Manager,Associate,Female,134100.0,,2.9,18,25.0,0,2024-11-23,Low
+EMP-10487,2015-08-28,Sales,Junior,High School,Female,41900.0,0.24,1.2,1,97.0,3,2024-07-13,High
+EMP-10488,2022-10-29,Sales,Mid,Associate,Female,78300.0,0.11,3.3,7,15.0,4,2024-09-09,Low
+EMP-10489,2022-05-14,Legal,Manager,PhD,Male,130400.0,0.11,4.3,21,55.0,5,2024-12-29,Low
+EMP-10490,2017-08-21,Sales,Mid,High School,Male,62400.0,0.05,3.6,29,18.0,5,2024-07-03,High
+EMP-10491,2011-08-26,Legal,Mid,Associate,Female,59100.0,,3.9,10,13.0,1,2024-12-19,Low
+EMP-10492,2014-04-08,Operations,Director,High School,Non-binary,181700.0,0.24,3.2,13,107.0,0,2024-05-22,Low
+EMP-10493,2023-01-31,Marketing,Senior,Bachelor's,Female,96900.0,0.11,,6,4.0,1,2024-06-14,Low
+EMP-10494,2011-10-18,R&D,Lead,PhD,Female,123800.0,0.02,,6,17.0,5,2024-03-23,High
+EMP-10495,2023-02-13,Marketing,Lead,Bachelor's,Female,121300.0,0.15,1.1,4,13.0,1,2024-10-21,High
+EMP-10496,2014-01-04,Legal,Lead,PhD,Male,103500.0,0.13,4.6,24,33.0,1,2024-09-10,Low
+EMP-10497,2016-10-28,Marketing,Director,PhD,Female,168500.0,0.16,4.0,14,30.0,5,2024-01-25,Low
+EMP-10498,2023-01-08,Finance,Lead,PhD,Male,102500.0,0.13,1.1,1,5.0,5,2024-09-29,Medium
+EMP-10499,2017-12-05,Engineering,Junior,Bachelor's,Non-binary,51500.0,0.1,2.5,1,21.0,4,2024-06-26,Low
+EMP-10500,2020-06-29,Sales,Senior,Master's,,99500.0,0.1,3.0,12,,0,2024-03-12,Medium
+EMP-10501,2018-01-03,Finance,Senior,Associate,Male,95500.0,0.24,2.8,7,94.0,5,2024-04-12,Low
+EMP-10502,2019-08-10,Engineering,Junior,Bachelor's,Male,50400.0,0.06,3.2,4,,2,2024-09-21,Low
+EMP-10503,2011-07-09,Marketing,Lead,High School,,110900.0,0.1,1.1,10,116.0,3,2024-02-01,Low
+EMP-10504,2020-11-13,Marketing,Director,Master's,Female,163000.0,0.2,1.7,22,99.0,1,2024-03-24,Low
+EMP-10505,2017-02-28,HR,Junior,Master's,Female,34300.0,0.09,2.3,5,87.0,5,2024-06-06,High
+EMP-10506,2013-12-06,Operations,Junior,Associate,Male,32200.0,0.01,4.8,4,93.0,3,2024-09-23,Low
+EMP-10507,2016-03-09,R&D,Mid,Bachelor's,Female,62700.0,0.22,2.5,28,6.0,3,2024-03-28,Low
+EMP-10508,2015-10-11,HR,Mid,Bachelor's,Female,59800.0,0.17,2.0,17,27.0,1,2024-12-14,Low
+EMP-10509,2022-04-04,Finance,Manager,Master's,Male,144800.0,0.1,2.5,16,,2,2024-06-08,Low
+EMP-10510,2010-07-09,HR,Senior,High School,Female,90200.0,0.17,2.5,17,55.0,3,2024-01-28,Low
+EMP-10511,2013-09-10,Operations,Manager,Bachelor's,Male,122100.0,0.16,3.1,11,63.0,4,2024-10-27,Low
+EMP-10512,2016-01-05,Finance,Junior,Bachelor's,Female,37700.0,0.09,,1,107.0,4,2024-06-01,Low
+EMP-10513,2015-04-25,R&D,Junior,Bachelor's,Female,39500.0,0.23,3.8,8,17.0,1,2024-07-15,Medium
+EMP-10514,2010-06-14,Finance,Senior,PhD,Male,87700.0,,2.3,8,18.0,0,2024-07-03,Low
+EMP-10515,2014-11-24,Legal,Lead,High School,,110700.0,0.18,4.5,18,10.0,4,2024-12-21,Low
+EMP-10516,2011-01-26,Finance,Manager,PhD,Female,129700.0,0.03,3.9,5,82.0,4,2024-04-05,Low
+EMP-10517,2018-12-18,Operations,Director,Bachelor's,Female,162600.0,,4.0,14,2.0,1,2024-05-19,Medium
+EMP-10518,2020-01-18,R&D,Mid,Master's,Male,57800.0,0.21,4.2,29,29.0,0,2024-06-07,High
+EMP-10519,2014-06-30,Marketing,Director,PhD,Male,165700.0,0.07,,4,86.0,4,2024-08-31,High
+EMP-10520,2016-05-04,Legal,Mid,PhD,Male,59700.0,0.17,2.5,15,59.0,3,2024-04-11,Medium
+EMP-10521,2021-04-04,R&D,Manager,Bachelor's,Female,124900.0,0.15,3.9,5,57.0,1,2024-11-13,Low
+EMP-10522,2012-03-26,HR,Manager,Associate,Male,128500.0,0.12,2.5,22,89.0,4,2024-06-13,Low
+EMP-10523,2014-05-31,Legal,Manager,High School,Male,126900.0,0.17,4.7,2,92.0,4,2024-08-12,Low
+EMP-10524,2015-06-04,Finance,Senior,High School,Female,97400.0,0.16,2.0,22,101.0,0,2024-07-25,Low
+EMP-10525,2011-04-11,Sales,Junior,Associate,Female,43000.0,0.18,2.5,18,58.0,5,2024-02-25,Low
+EMP-10526,2012-11-22,Sales,Mid,PhD,Male,59400.0,0.14,4.7,20,,5,2024-12-14,Low
+EMP-10527,2011-02-03,Finance,Mid,Associate,Male,74100.0,0.08,3.2,24,74.0,1,2024-05-13,Low
+EMP-10528,2011-10-12,Finance,Lead,PhD,Female,113400.0,0.16,2.6,15,110.0,0,2024-07-04,Low
+EMP-10529,2011-08-25,Sales,Junior,Associate,Male,42500.0,,3.4,23,17.0,5,2024-07-20,Low
+EMP-10530,2022-11-28,HR,Mid,Master's,Male,66600.0,0.23,3.8,27,,0,2024-06-12,Low
+EMP-10531,2017-08-26,HR,Manager,PhD,Male,135700.0,0.23,1.9,8,1.0,3,2024-07-16,Low
+EMP-10532,2013-01-24,Sales,Director,Master's,Female,177700.0,0.11,3.7,26,14.0,3,2024-08-29,Low
+EMP-10533,2010-02-11,HR,Director,High School,Female,170500.0,0.22,1.6,11,84.0,4,2024-05-16,Medium
+EMP-10534,2014-03-22,Engineering,Mid,PhD,Female,67900.0,0.16,,9,34.0,3,2024-02-27,High
+EMP-10535,2016-01-27,Engineering,Manager,Associate,Female,123800.0,0.15,4.5,21,81.0,0,2024-04-14,Medium
+EMP-10536,2022-01-16,Operations,Mid,High School,Female,59800.0,0.1,4.7,12,56.0,0,2024-11-14,Low
+EMP-10537,2010-05-03,R&D,Manager,Master's,Male,130600.0,0.19,1.9,15,,2,2024-08-18,Medium
+EMP-10538,2017-03-30,R&D,Senior,Bachelor's,Female,87300.0,0.15,1.1,4,79.0,2,2024-09-13,High
+EMP-10539,2010-08-14,Marketing,Lead,Associate,Female,110700.0,,,1,15.0,4,2024-07-28,High
+EMP-10540,2014-10-05,Legal,Manager,Associate,Female,125000.0,0.2,2.6,8,15.0,0,2024-11-22,Low
+EMP-10541,2017-03-19,Sales,Manager,PhD,Female,124100.0,0.2,4.9,25,87.0,4,2024-03-22,Medium
+EMP-10542,2017-04-30,Marketing,Lead,High School,Male,122400.0,0.0,1.9,18,98.0,3,2024-06-10,Low
+EMP-10543,2010-08-10,Sales,Lead,Master's,Male,103700.0,0.1,3.1,7,53.0,0,2024-01-23,Medium
+EMP-10544,2020-11-27,Marketing,Senior,Bachelor's,Non-binary,104800.0,0.05,1.8,2,12.0,3,2024-03-18,Low
+EMP-10545,2019-02-03,R&D,Junior,PhD,Female,40600.0,,3.8,7,118.0,1,2024-05-22,High
+EMP-10546,2017-07-30,Finance,Director,Bachelor's,Female,166300.0,,2.4,4,62.0,5,2024-10-01,Low
+EMP-10547,2013-11-30,Finance,Lead,Master's,Female,112800.0,0.12,1.4,3,107.0,0,2024-08-28,Low
+EMP-10548,2011-04-16,Operations,Senior,Associate,Male,93200.0,0.13,,0,16.0,3,2024-12-04,High
+EMP-10549,2019-04-17,Engineering,Junior,High School,Female,48400.0,,1.5,25,11.0,0,2024-10-13,Medium
+EMP-10550,2011-01-08,HR,Mid,High School,Male,73100.0,0.12,1.6,15,42.0,5,2024-12-09,High
+EMP-10551,2011-12-16,Sales,Mid,Master's,Male,61600.0,0.04,1.1,13,,3,2024-07-29,Low
+EMP-10552,2017-07-03,Marketing,Lead,Associate,Female,108200.0,0.18,1.3,9,104.0,0,2024-02-09,Medium
+EMP-10553,2021-02-01,Sales,Lead,High School,Female,121800.0,0.22,4.1,7,105.0,1,2024-05-20,Low
+EMP-10554,2023-05-30,Legal,Junior,PhD,Female,50400.0,0.14,4.1,18,90.0,2,2024-07-19,High
+EMP-10555,2018-12-18,Operations,Junior,PhD,Male,33700.0,0.14,4.9,1,114.0,2,2024-07-04,Low
+EMP-10556,2015-10-07,Legal,Manager,Bachelor's,Male,127000.0,0.1,1.8,16,0.0,0,2024-07-21,Low
+EMP-10557,2020-05-23,HR,Manager,PhD,Female,144700.0,0.1,1.7,15,63.0,2,2024-09-28,Low
+EMP-10558,2010-04-22,Operations,Manager,Master's,Female,135900.0,0.04,4.6,10,36.0,4,2024-05-27,High
+EMP-10559,2010-07-30,HR,Junior,Associate,Male,44600.0,0.23,2.3,9,66.0,2,2024-11-18,Low
+EMP-10560,2017-02-08,Finance,Manager,PhD,Male,131700.0,0.06,3.9,29,36.0,4,2024-03-03,Low
+EMP-10561,2022-08-27,R&D,Director,High School,Female,162500.0,,1.8,24,2.0,5,2024-05-12,Medium
+EMP-10562,2017-01-11,Legal,Senior,PhD,Female,89500.0,0.05,1.1,21,48.0,1,2024-08-18,Medium
+EMP-10563,2011-04-04,Engineering,Junior,Master's,Female,42200.0,0.01,2.3,10,51.0,4,2024-01-07,Low
+EMP-10564,2019-04-24,HR,Senior,PhD,Female,84400.0,0.15,1.8,20,9.0,5,2024-01-22,Low
+EMP-10565,2017-05-20,Finance,Senior,High School,Non-binary,97500.0,0.24,1.1,13,70.0,1,2024-09-29,Medium
+EMP-10566,2013-07-07,Engineering,Manager,PhD,Male,125100.0,0.04,4.6,24,46.0,4,2024-12-23,Medium
+EMP-10567,2012-02-05,Engineering,Junior,Bachelor's,Female,34200.0,0.17,4.5,6,58.0,1,2024-10-17,Low
+EMP-10568,2010-06-02,Operations,Junior,Associate,Male,51200.0,0.08,1.9,1,41.0,0,2024-06-05,Low
+EMP-10569,2013-07-03,Marketing,Manager,,Female,127000.0,0.08,4.0,3,43.0,4,2024-06-30,Medium
+EMP-10570,2014-09-21,Operations,Director,Master's,,168300.0,0.18,4.2,6,95.0,0,2024-11-04,Low
+EMP-10571,2013-03-14,Operations,Lead,Associate,Female,116800.0,0.23,2.1,15,75.0,1,2024-07-03,Low
+EMP-10572,2021-11-16,Marketing,Senior,Associate,Male,97300.0,0.08,,23,87.0,4,2024-05-15,Low
+EMP-10573,2012-01-07,Finance,Mid,Associate,Female,64600.0,0.18,,29,69.0,2,2024-05-04,Low
+EMP-10574,2018-01-10,HR,Mid,Associate,Male,77400.0,0.11,1.4,29,,3,2024-02-05,Low
+EMP-10575,2018-02-11,Sales,Junior,Bachelor's,Male,35100.0,0.24,1.5,3,45.0,5,2024-10-07,High
+EMP-10576,2019-06-30,HR,Lead,Master's,Male,123700.0,0.14,1.3,4,51.0,1,2024-02-19,Medium
+EMP-10577,2017-09-19,Finance,Manager,Master's,Female,137500.0,0.2,4.5,16,1.0,5,2024-11-04,Low
+EMP-10578,2022-01-30,R&D,Junior,Bachelor's,Female,50500.0,0.15,1.6,23,42.0,3,2024-12-13,High
+EMP-10579,2023-03-14,R&D,Mid,Associate,Male,71300.0,0.08,1.3,8,115.0,2,2024-07-30,High
+EMP-10580,2022-06-13,R&D,Lead,Master's,Male,106500.0,0.12,2.3,10,53.0,0,2024-12-30,Low
+EMP-10581,2013-06-10,Legal,Lead,PhD,Male,102400.0,0.2,4.9,20,66.0,4,2024-02-26,Low
+EMP-10582,2022-11-24,Engineering,Manager,Associate,Non-binary,128300.0,0.13,2.7,20,53.0,3,2024-06-06,Low
+EMP-10583,2017-06-03,HR,Lead,PhD,Female,121100.0,0.23,1.5,3,38.0,4,2024-03-25,Medium
+EMP-10584,2015-02-28,Operations,Junior,,Male,39100.0,0.07,1.9,23,42.0,2,2024-11-26,Low
+EMP-10585,2015-10-14,HR,Lead,Bachelor's,Female,105500.0,0.02,4.9,20,56.0,3,2024-03-31,Low
+EMP-10586,2020-09-17,Finance,Lead,High School,Male,122800.0,,2.0,17,87.0,0,2024-11-20,Medium
+EMP-10587,2010-09-17,Legal,Lead,High School,Male,117000.0,0.12,1.4,22,92.0,3,2024-12-20,Low
+EMP-10588,2016-12-08,Sales,Mid,High School,Male,64900.0,0.03,3.8,5,25.0,1,2024-03-01,High
+EMP-10589,2022-04-29,Finance,Manager,Bachelor's,Male,130500.0,0.17,2.1,14,98.0,2,2024-07-25,Low
+EMP-10590,2020-03-01,Sales,Manager,Associate,Male,138400.0,0.08,,2,6.0,1,2024-07-20,Low
+EMP-10591,2022-07-18,Operations,Mid,Associate,Male,70900.0,0.03,4.6,11,112.0,2,2024-06-23,Low
+EMP-10592,2016-03-29,Engineering,Lead,Master's,Non-binary,119100.0,0.18,,11,60.0,2,2024-07-23,Low
+EMP-10593,2018-02-08,Legal,Senior,Bachelor's,Male,99500.0,0.02,1.7,2,70.0,3,2024-07-19,Low
+EMP-10594,2021-09-27,Legal,Senior,PhD,Prefer not to say,92900.0,,4.3,24,69.0,5,2024-09-12,High
+EMP-10595,2021-11-17,Engineering,Junior,PhD,Female,33900.0,0.21,2.0,2,21.0,1,2024-06-21,Medium
+EMP-10596,2016-02-23,Legal,Lead,High School,Female,103000.0,0.19,2.0,28,94.0,1,2024-06-28,Low
+EMP-10597,2012-12-16,HR,Director,Master's,Male,169500.0,0.15,3.0,16,36.0,2,2024-04-05,Medium
+EMP-10598,2015-09-03,Legal,Mid,Associate,Male,57800.0,0.17,1.4,12,108.0,5,2024-12-30,Medium
+EMP-10599,2010-03-16,Marketing,Lead,Associate,Female,109200.0,0.21,2.8,14,29.0,1,2024-03-14,Medium
+EMP-10600,2022-07-09,HR,Senior,Bachelor's,Male,98800.0,0.23,4.0,20,,3,2024-09-29,Low
+EMP-10601,2020-09-02,HR,Director,Associate,Female,171500.0,0.07,2.7,12,99.0,5,2024-09-23,Medium
+EMP-10602,2012-03-28,Engineering,Senior,PhD,Female,88900.0,0.05,1.1,6,24.0,0,2024-07-30,Low
+EMP-10603,2018-02-17,Legal,Senior,Associate,Non-binary,103000.0,0.18,3.9,15,35.0,2,2024-12-08,Low
+EMP-10604,2013-05-18,Finance,Director,High School,Male,184600.0,0.23,1.9,23,118.0,2,2024-05-27,Low
+EMP-10605,2015-02-13,Operations,Manager,Bachelor's,Female,136900.0,0.2,2.4,28,4.0,1,2024-03-09,Low
+EMP-10606,2018-12-28,Marketing,Lead,Master's,Female,122100.0,,1.5,22,30.0,4,2024-04-19,Low
+EMP-10607,2012-01-07,Finance,Manager,PhD,Male,128300.0,0.22,3.0,27,,3,2024-06-22,Low
+EMP-10608,2010-08-17,Marketing,Manager,Associate,Female,128000.0,,3.0,9,33.0,5,2024-12-15,High
+EMP-10609,2013-01-03,Finance,Senior,Associate,Male,88700.0,0.03,3.5,16,38.0,5,2024-02-03,Low
+EMP-10610,2012-09-28,R&D,Mid,PhD,Female,67200.0,0.17,3.7,26,82.0,0,2024-07-30,Low
+EMP-10611,2011-05-08,Marketing,Lead,PhD,Female,123700.0,0.08,2.9,26,71.0,5,2024-02-04,Low
+EMP-10612,2022-03-09,R&D,Manager,Bachelor's,Male,130500.0,0.13,,25,116.0,4,2024-09-14,Low
+EMP-10613,2021-04-04,Sales,Junior,PhD,Non-binary,36300.0,0.2,4.6,21,,1,2024-01-02,High
+EMP-10614,2014-08-06,Finance,Manager,High School,Male,127200.0,0.22,1.6,27,93.0,2,2024-10-20,Medium
+EMP-10615,2022-06-15,HR,Mid,Master's,Male,59000.0,0.17,1.2,20,12.0,5,2024-12-07,Low
+EMP-10616,2014-01-29,Finance,Junior,PhD,Male,39400.0,0.16,2.9,28,53.0,2,2024-04-30,Medium
+EMP-10617,2015-10-24,R&D,Mid,,Male,72200.0,0.04,3.5,4,85.0,0,2024-10-22,Medium
+EMP-10618,2018-03-15,Finance,Lead,Master's,Male,113100.0,0.05,2.3,21,,3,2024-08-09,Medium
+EMP-10619,2013-05-08,Sales,Director,PhD,Female,184300.0,0.04,2.4,5,,5,2024-07-25,Low
+EMP-10620,2013-12-24,R&D,Manager,High School,Female,132100.0,0.13,,15,69.0,1,2024-04-19,Medium
+EMP-10621,2013-08-20,Marketing,Senior,PhD,Female,95000.0,0.0,4.0,21,64.0,5,2024-10-20,Medium
+EMP-10622,2021-11-08,Finance,Senior,High School,Male,92300.0,,3.4,10,62.0,5,2024-05-20,Medium
+EMP-10623,2010-08-26,R&D,Junior,PhD,Male,49100.0,0.03,5.0,2,,3,2024-12-13,High
+EMP-10624,2017-11-13,Engineering,Director,PhD,Female,172000.0,0.08,3.7,26,16.0,1,2024-03-08,High
+EMP-10625,2015-06-11,HR,Director,PhD,Female,163800.0,0.07,3.3,7,,3,2024-03-18,Low
+EMP-10626,2019-11-27,Marketing,Junior,PhD,Male,52000.0,0.02,2.1,10,,5,2024-04-23,Medium
+EMP-10627,2021-03-11,Operations,Manager,PhD,Male,132300.0,0.17,2.6,1,1.0,0,2024-12-09,Low
+EMP-10628,2014-10-13,HR,Lead,Bachelor's,Female,104900.0,0.09,2.7,4,69.0,1,2024-05-02,Medium
+EMP-10629,2017-09-20,Marketing,Director,Master's,Female,171600.0,0.21,1.4,18,100.0,5,2024-09-13,Low
+EMP-10630,2018-09-22,Sales,Mid,Master's,Male,58600.0,0.0,3.5,27,46.0,1,2024-03-04,Low
+EMP-10631,2020-04-27,Sales,Director,Associate,Male,172600.0,0.03,5.0,19,48.0,0,2024-05-24,Low
+EMP-10632,2014-10-04,Engineering,Mid,Master's,Prefer not to say,73800.0,0.22,1.0,6,16.0,5,2024-01-18,Low
+EMP-10633,2017-04-06,Marketing,Junior,High School,Non-binary,39700.0,0.15,3.6,22,118.0,0,2024-11-28,Low
+EMP-10634,2010-08-05,Operations,Manager,Bachelor's,Female,127000.0,0.25,3.3,2,1.0,0,2024-07-14,Low
+EMP-10635,2012-06-02,Finance,Mid,High School,Female,62700.0,0.13,4.5,8,101.0,5,2024-05-27,Low
+EMP-10636,2010-05-07,Finance,Senior,Master's,Male,102600.0,0.22,3.9,20,,2,2024-03-08,Medium
+EMP-10637,2011-06-21,Marketing,Director,High School,Female,170000.0,0.06,4.5,28,46.0,3,2024-11-27,Medium
+EMP-10638,2019-01-05,Marketing,Manager,High School,Male,137100.0,0.16,,4,,2,2024-12-26,Low
+EMP-10639,2017-11-12,R&D,Senior,Associate,Female,83000.0,,3.5,16,109.0,4,2024-12-26,Medium
+EMP-10640,2011-05-07,R&D,Junior,PhD,Female,38500.0,0.16,3.9,27,53.0,2,2024-07-15,High
+EMP-10641,2015-02-12,Marketing,Manager,High School,Male,132500.0,,4.7,0,108.0,3,2024-11-09,Low
+EMP-10642,2022-08-27,Marketing,Senior,Bachelor's,Female,85900.0,,2.9,23,4.0,4,2024-05-20,Low
+EMP-10643,2018-06-08,Marketing,Mid,PhD,Male,73600.0,0.0,2.6,21,25.0,4,2024-12-30,Low
+EMP-10644,2019-03-13,R&D,Senior,Associate,Male,99100.0,0.2,1.9,18,88.0,0,2024-02-04,Medium
+EMP-10645,2018-06-04,HR,Mid,Master's,Male,68900.0,0.04,4.5,3,53.0,3,2024-11-04,Low
+EMP-10646,2015-01-10,Engineering,Mid,Bachelor's,Female,79500.0,0.23,4.1,10,2.0,4,2024-11-05,Medium
+EMP-10647,2010-09-09,Marketing,Director,PhD,Female,177600.0,0.1,,9,101.0,3,2024-09-17,Low
+EMP-10648,2015-08-26,Sales,Mid,Bachelor's,Male,74300.0,,3.8,8,60.0,4,2024-05-19,Low
+EMP-10649,2010-06-20,R&D,Junior,PhD,Female,42200.0,,2.9,13,,5,2024-11-07,Low
+EMP-10650,2015-11-19,Operations,Lead,High School,Female,104500.0,0.11,4.3,17,51.0,2,2024-04-19,Low
+EMP-10651,2019-09-24,Operations,Lead,Master's,Male,105500.0,,4.5,13,16.0,2,2024-04-24,High
+EMP-10652,2015-06-05,HR,Manager,Associate,Male,143600.0,0.23,4.2,14,108.0,1,2024-06-07,Low
+EMP-10653,2015-03-11,Sales,Director,Associate,Female,164300.0,0.11,3.8,22,79.0,1,2024-02-18,Medium
+EMP-10654,2017-12-12,HR,Lead,PhD,Male,122400.0,0.16,1.4,25,97.0,3,2024-07-03,Medium
+EMP-10655,2014-07-23,Operations,Director,PhD,Female,174700.0,0.1,3.2,20,77.0,1,2024-12-12,Low
+EMP-10656,2017-04-24,Sales,Senior,Master's,Female,96300.0,0.06,4.4,8,106.0,4,2024-10-18,Low
+EMP-10657,2019-07-19,Operations,Junior,,Male,47800.0,0.24,2.0,11,21.0,5,2024-02-10,High
+EMP-10658,2016-04-01,Marketing,Junior,Master's,,34200.0,,,8,88.0,5,2024-07-03,Low
+EMP-10659,2016-09-10,Marketing,Mid,High School,Prefer not to say,65300.0,0.19,3.9,25,112.0,0,2024-01-12,Low
+EMP-10660,2021-03-08,Legal,Lead,Master's,Female,123900.0,0.16,1.8,10,26.0,4,2024-12-24,Low
+EMP-10661,2014-11-10,Operations,Lead,High School,Male,118800.0,0.23,4.6,1,3.0,1,2024-09-21,Medium
+EMP-10662,2022-10-10,Legal,Senior,Bachelor's,Female,89300.0,,1.1,27,115.0,1,2024-02-06,Low
+EMP-10663,2013-07-07,HR,Lead,High School,Non-binary,116700.0,,,6,,1,2024-03-03,Low
+EMP-10664,2020-09-15,Finance,Junior,High School,Prefer not to say,42400.0,0.19,3.1,4,,3,2024-06-15,Low
+EMP-10665,2015-12-30,Marketing,Lead,High School,Female,117600.0,,2.9,4,63.0,1,2024-04-21,Low
+EMP-10666,2013-01-23,HR,Junior,Bachelor's,Male,45700.0,0.03,1.9,26,112.0,5,2024-01-02,Low
+EMP-10667,2016-09-24,Engineering,Lead,Associate,Female,114200.0,0.18,,10,108.0,0,2024-08-22,Medium
+EMP-10668,2016-05-03,Legal,Senior,Bachelor's,Female,99500.0,0.03,1.7,21,67.0,1,2024-11-18,Low
+EMP-10669,2011-12-26,Operations,Mid,Bachelor's,Female,71600.0,0.08,2.2,28,49.0,1,2024-03-12,Low
+EMP-10670,2017-06-08,Finance,Mid,PhD,Prefer not to say,67300.0,0.24,3.8,1,104.0,1,2024-08-16,Low
+EMP-10671,2010-02-02,R&D,Lead,High School,,122300.0,0.05,4.0,3,3.0,5,2024-05-20,High
+EMP-10672,2020-11-21,R&D,Director,Associate,Female,163700.0,0.09,4.9,18,73.0,4,2024-09-14,High
+EMP-10673,2015-08-08,Finance,Junior,PhD,Female,35400.0,0.19,1.8,8,93.0,5,2024-01-31,Medium
+EMP-10674,2013-08-16,Engineering,Manager,High School,Female,136900.0,0.18,,4,,2,2024-08-16,Medium
+EMP-10675,2017-03-04,R&D,Director,PhD,Male,164900.0,0.18,1.1,10,4.0,2,2024-10-29,Low
+EMP-10676,2023-05-28,R&D,Lead,High School,Female,122900.0,0.03,1.1,28,90.0,3,2024-10-11,High
+EMP-10677,2020-02-29,Engineering,Lead,High School,Male,111100.0,0.23,4.8,6,61.0,4,2024-10-31,Low
+EMP-10678,2014-10-04,Engineering,Senior,Master's,Male,86400.0,0.13,1.4,14,118.0,0,2024-01-17,Low
+EMP-10679,2022-12-29,Legal,Junior,Master's,Female,33200.0,0.16,3.5,20,76.0,4,2024-01-21,Low
+EMP-10680,2011-03-04,Sales,Mid,Associate,Female,75300.0,0.18,3.4,22,12.0,5,2024-10-02,Low
+EMP-10681,2014-09-15,Marketing,Director,Associate,Female,166200.0,0.18,4.5,7,99.0,1,2024-08-27,Medium
+EMP-10682,2018-01-31,Legal,Mid,Bachelor's,Female,59100.0,0.17,4.4,28,47.0,2,2024-02-26,High
+EMP-10683,2011-01-14,Engineering,Junior,Associate,Female,47300.0,0.16,3.4,23,86.0,1,2024-09-04,Medium
+EMP-10684,2019-11-06,R&D,Manager,PhD,Female,144400.0,0.18,4.0,11,,3,2024-04-24,Low
+EMP-10685,2014-02-02,Legal,Mid,Master's,Non-binary,77300.0,0.13,3.6,9,,3,2024-05-30,Medium
+EMP-10686,2019-10-02,Engineering,Lead,,,103200.0,0.05,1.4,27,51.0,4,2024-11-18,High
+EMP-10687,2013-02-19,Engineering,Junior,High School,Female,41800.0,,4.7,21,86.0,5,2024-06-23,Medium
+EMP-10688,2016-09-03,Legal,Mid,Associate,Male,78500.0,0.2,2.5,23,51.0,4,2024-06-18,Medium
+EMP-10689,2010-07-20,Sales,Lead,Bachelor's,Male,104200.0,0.1,3.5,0,53.0,0,2024-09-28,Low
+EMP-10690,2012-07-02,Legal,Junior,Bachelor's,Male,53600.0,0.24,1.0,26,37.0,4,2024-10-18,Low
+EMP-10691,2013-05-29,Engineering,Senior,Master's,Non-binary,93200.0,0.08,3.6,7,84.0,2,2024-04-27,Low
+EMP-10692,2010-03-19,Engineering,Junior,Associate,Female,46300.0,,3.7,22,1.0,3,2024-04-21,Low
+EMP-10693,2012-12-28,HR,Junior,PhD,Male,49000.0,0.14,3.6,3,38.0,2,2024-10-11,Low
+EMP-10694,2016-10-15,HR,Lead,Bachelor's,Male,104800.0,0.03,3.4,23,99.0,1,2024-04-16,Medium
+EMP-10695,2013-05-20,Legal,Senior,PhD,Male,86700.0,0.01,2.4,11,117.0,0,2024-05-24,Low
+EMP-10696,2021-04-10,Legal,Junior,High School,Female,44900.0,,2.9,8,,5,2024-10-22,Low
+EMP-10697,2017-11-20,Marketing,Manager,PhD,Female,144900.0,0.24,5.0,1,83.0,2,2024-10-01,Low
+EMP-10698,2012-03-10,Legal,Mid,Bachelor's,Prefer not to say,60100.0,0.2,1.0,11,71.0,1,2024-12-31,Low
+EMP-10699,2013-10-14,HR,Manager,,Female,123700.0,0.22,,7,0.0,0,2024-01-16,Medium
+EMP-10700,2020-06-02,Engineering,Senior,High School,Female,83000.0,,3.2,16,101.0,1,2024-04-24,Low
+EMP-10701,2018-11-28,HR,Director,Master's,Female,171400.0,0.11,5.0,14,,0,2024-03-29,Low
+EMP-10702,2012-01-10,Finance,Manager,Associate,Female,144000.0,0.04,4.1,3,13.0,1,2024-01-15,High
+EMP-10703,2019-04-17,Operations,Junior,High School,Female,36400.0,0.2,2.7,7,82.0,5,2024-09-15,High
+EMP-10704,2017-08-13,Operations,Manager,Bachelor's,Female,139400.0,0.01,3.8,10,94.0,5,2024-05-17,Low
+EMP-10705,2018-11-24,Operations,Senior,Bachelor's,Male,85500.0,0.13,2.5,9,90.0,0,2024-08-05,Medium
+EMP-10706,2017-07-12,Operations,Senior,Master's,Male,104900.0,0.18,3.6,7,52.0,0,2024-07-10,High
+EMP-10707,2010-09-27,Finance,Senior,Associate,Female,84300.0,0.02,2.3,20,105.0,0,2024-02-02,Medium
+EMP-10708,2023-02-16,Finance,Lead,Bachelor's,,112400.0,0.19,1.4,16,16.0,1,2024-11-18,Medium
+EMP-10709,2015-04-06,Finance,Mid,Master's,Female,62400.0,0.18,2.4,2,113.0,4,2024-05-20,Medium
+EMP-10710,2014-07-08,Legal,Director,Master's,Female,179400.0,0.1,2.6,4,59.0,4,2024-02-15,Low
+EMP-10711,2010-05-06,Engineering,Manager,Associate,Male,141800.0,0.02,1.7,11,113.0,0,2024-10-26,Low
+EMP-10712,2010-11-07,Legal,Manager,PhD,Female,135300.0,0.17,1.8,1,44.0,2,2024-02-27,Low
+EMP-10713,2013-01-09,Legal,Lead,,Non-binary,107500.0,0.04,1.4,4,108.0,1,2024-07-23,Low
+EMP-10714,2021-04-28,Operations,Director,PhD,Male,169900.0,0.1,1.5,3,25.0,2,2024-07-18,Low
+EMP-10715,2023-05-08,Engineering,Mid,PhD,Female,62700.0,,1.7,16,22.0,1,2024-09-19,High
+EMP-10716,2015-03-13,Finance,Mid,Bachelor's,Female,69700.0,0.24,1.6,20,41.0,0,2024-10-28,Low
+EMP-10717,2022-11-23,Operations,Lead,PhD,Female,116000.0,0.21,1.5,25,75.0,1,2024-07-28,Low
+EMP-10718,2019-08-28,Operations,Manager,High School,Female,133100.0,0.24,4.5,27,76.0,3,2024-04-25,Low
+EMP-10719,2012-05-09,Marketing,Lead,Associate,Male,113900.0,0.01,3.7,19,20.0,2,2024-12-07,Medium
+EMP-10720,2010-06-13,HR,Director,PhD,Prefer not to say,166000.0,0.24,1.5,5,93.0,1,2024-01-29,Low
+EMP-10721,2011-01-31,Sales,Senior,Associate,Female,90000.0,0.13,1.3,13,14.0,4,2024-07-09,Low
+EMP-10722,2017-02-05,Legal,Junior,High School,Male,47000.0,0.05,2.9,11,51.0,1,2024-09-29,Low
+EMP-10723,2011-06-13,Marketing,Lead,Master's,Male,120100.0,0.23,4.1,17,69.0,3,2024-06-17,Medium
+EMP-10724,2012-06-22,Marketing,Lead,Bachelor's,Female,105800.0,0.01,2.0,2,115.0,5,2024-12-02,Low
+EMP-10725,2012-09-13,Finance,Junior,Bachelor's,Female,35000.0,0.12,1.0,24,56.0,3,2024-05-08,Medium
+EMP-10726,2020-12-06,Operations,Director,Bachelor's,Female,170500.0,0.01,4.9,0,,4,2024-02-06,Low
+EMP-10727,2013-01-17,Marketing,Manager,Bachelor's,Male,134700.0,0.11,1.1,22,39.0,0,2024-11-24,Low
+EMP-10728,2021-10-14,Operations,Lead,Master's,Female,117500.0,0.04,2.6,27,36.0,4,2024-09-01,High
+EMP-10729,2019-08-12,Legal,Senior,Master's,Male,89400.0,0.16,4.3,16,1.0,5,2024-10-21,Low
+EMP-10730,2010-01-22,Operations,Senior,Associate,Female,88100.0,0.21,1.1,5,12.0,1,2024-03-09,Low
+EMP-10731,2014-01-06,Operations,Manager,Master's,Male,141800.0,,2.7,15,103.0,5,2024-08-08,Low
+EMP-10732,2015-01-09,Operations,Lead,Master's,Male,111500.0,0.01,3.4,26,40.0,0,2024-08-20,Medium
+EMP-10733,2022-02-14,Operations,Senior,Bachelor's,Male,97200.0,0.22,,9,95.0,5,2024-12-15,High
+EMP-10734,2013-04-26,Sales,Manager,Associate,Male,134900.0,0.01,3.1,26,62.0,1,2024-12-28,High
+EMP-10735,2022-03-27,Finance,Director,PhD,Female,168600.0,0.2,2.3,29,93.0,5,2024-11-12,High
+EMP-10736,2021-03-25,Sales,Lead,,Female,106200.0,,,27,54.0,3,2024-08-20,Medium
+EMP-10737,2012-07-09,HR,Lead,PhD,Non-binary,108300.0,0.22,4.7,13,37.0,4,2024-04-07,Low
+EMP-10738,2021-11-20,Finance,Director,High School,Male,178100.0,0.13,3.5,24,,3,2024-06-23,Low
+EMP-10739,2017-12-06,R&D,Senior,PhD,Male,85500.0,0.16,1.5,4,25.0,3,2024-11-11,High
+EMP-10740,2021-02-17,Operations,Director,Associate,Female,178800.0,0.24,2.4,0,1.0,1,2024-04-07,Low
+EMP-10741,2011-09-26,R&D,Mid,High School,Female,68100.0,,1.9,21,68.0,3,2024-02-27,High
+EMP-10742,2017-11-02,Engineering,Senior,Associate,Male,90100.0,,3.6,8,37.0,5,2024-07-25,Low
+EMP-10743,2014-10-29,Operations,Senior,High School,Male,82900.0,0.05,4.8,28,64.0,5,2024-03-25,Low
+EMP-10744,2015-01-09,Engineering,Lead,High School,Male,110400.0,0.16,1.1,7,64.0,4,2024-05-24,Low
+EMP-10745,2011-08-17,Legal,Manager,Master's,Male,138800.0,0.06,2.2,3,67.0,0,2024-04-09,Medium
+EMP-10746,2016-02-15,Engineering,Senior,PhD,Male,97400.0,,3.4,21,107.0,4,2024-02-09,Low
+EMP-10747,2013-12-22,HR,Director,Bachelor's,Male,184800.0,0.1,4.8,1,78.0,1,2024-09-21,High
+EMP-10748,2010-05-05,Operations,Senior,High School,Female,86900.0,,3.1,29,32.0,1,2024-01-09,Low
+EMP-10749,2015-12-08,Finance,Director,Master's,Male,182200.0,0.01,1.2,27,87.0,3,2024-08-12,Medium
+EMP-10750,2016-01-13,Finance,Director,PhD,Male,172500.0,0.02,4.1,7,,0,2024-04-11,Low
+EMP-10751,2011-07-19,Engineering,Director,Bachelor's,Male,172300.0,0.22,,29,34.0,4,2024-12-26,High
+EMP-10752,2010-12-20,Marketing,Mid,PhD,Female,62700.0,0.17,1.7,8,8.0,0,2024-04-10,Low
+EMP-10753,2014-05-29,Engineering,Mid,Master's,Female,68200.0,0.17,3.1,23,6.0,2,2024-05-15,Low
+EMP-10754,2021-05-30,Finance,Junior,Master's,Male,54400.0,0.01,2.4,13,37.0,5,2024-04-13,Low
+EMP-10755,2011-01-28,Sales,Lead,PhD,Female,108100.0,0.2,4.1,8,32.0,3,2024-10-13,Low
+EMP-10756,2019-02-26,HR,Senior,Master's,Female,103600.0,0.16,,2,106.0,0,2024-12-25,High
+EMP-10757,2022-06-26,Operations,Manager,PhD,Female,135700.0,,3.1,6,54.0,1,2024-05-31,Low
+EMP-10758,2018-02-18,Operations,Lead,Associate,Female,103800.0,0.1,1.3,1,24.0,0,2024-01-12,Low
+EMP-10759,2015-12-29,Finance,Manager,PhD,Female,122000.0,,2.2,13,12.0,0,2024-11-09,Medium
+EMP-10760,2010-03-28,Engineering,Junior,High School,Male,39600.0,,3.5,21,,1,2024-01-09,Medium
+EMP-10761,2017-04-22,Engineering,Senior,PhD,Male,100800.0,,1.1,19,7.0,0,2024-02-02,High
+EMP-10762,2010-12-06,Engineering,Director,PhD,Female,173300.0,0.19,2.2,3,101.0,2,2024-06-30,Medium
+EMP-10763,2020-03-06,Operations,Manager,Master's,Male,122300.0,,4.5,1,21.0,4,2024-04-15,Medium
+EMP-10764,2022-03-15,HR,Lead,Associate,Non-binary,110300.0,0.11,4.0,8,100.0,5,2024-08-01,High
+EMP-10765,2016-04-30,Marketing,Director,High School,Female,181900.0,,2.9,7,101.0,2,2024-01-07,Low
+EMP-10766,2022-04-23,Legal,Lead,PhD,Female,103300.0,0.18,2.5,14,25.0,3,2024-11-24,Low
+EMP-10767,2017-06-02,HR,Junior,High School,Male,33200.0,0.09,1.3,11,112.0,1,2024-11-18,Low
+EMP-10768,2019-03-16,HR,Manager,Associate,Female,132700.0,0.09,3.6,17,94.0,1,2024-10-02,Medium
+EMP-10769,2016-01-10,R&D,Junior,PhD,Male,39500.0,0.21,,16,13.0,0,2024-05-15,Medium
+EMP-10770,2018-12-15,HR,Mid,PhD,Male,67400.0,0.22,4.4,2,3.0,5,2024-10-12,Medium
+EMP-10771,2019-06-19,Marketing,Director,PhD,Female,170700.0,,4.7,10,0.0,0,2024-06-30,Low
+EMP-10772,2017-02-20,Operations,Lead,,Non-binary,114000.0,0.13,3.3,25,50.0,5,2024-11-17,Low
+EMP-10773,2022-02-10,Finance,Senior,Master's,Female,91900.0,0.15,2.9,8,109.0,5,2024-03-24,Medium
+EMP-10774,2019-05-27,Operations,Manager,PhD,Female,134300.0,0.21,4.2,20,56.0,0,2024-10-16,High
+EMP-10775,2018-08-04,Legal,Junior,High School,Non-binary,52200.0,,2.2,2,65.0,2,2024-11-19,Low
+EMP-10776,2013-05-23,HR,Director,Bachelor's,Female,173600.0,0.09,4.4,12,107.0,3,2024-06-10,Medium
+EMP-10777,2018-09-06,HR,Junior,Bachelor's,Male,44900.0,0.13,2.7,8,118.0,1,2024-06-30,Low
+EMP-10778,2018-08-24,HR,Lead,Associate,Female,114400.0,0.11,1.3,4,,0,2024-06-05,Low
+EMP-10779,2019-03-13,HR,Director,PhD,Female,171300.0,0.12,1.6,1,,3,2024-02-23,Medium
+EMP-10780,2013-03-17,R&D,Mid,Master's,Male,60600.0,0.22,3.5,17,57.0,2,2024-01-23,Medium
+EMP-10781,2010-02-13,Legal,Senior,Bachelor's,Female,89400.0,0.21,4.8,5,,1,2024-03-30,Low
+EMP-10782,2015-05-13,HR,Manager,High School,Male,122400.0,0.23,4.6,22,,1,2024-12-19,Medium
+EMP-10783,2021-03-28,HR,Mid,PhD,Female,79100.0,0.03,3.4,0,116.0,3,2024-06-30,High
+EMP-10784,2015-09-18,R&D,Director,Associate,Male,175500.0,0.12,4.0,27,0.0,2,2024-08-03,Medium
+EMP-10785,2018-06-16,Marketing,Mid,Associate,Female,77800.0,0.06,1.8,8,50.0,3,2024-01-16,Medium
+EMP-10786,2015-05-27,Engineering,Lead,Bachelor's,,120600.0,0.03,2.5,21,,5,2024-12-31,Low
+EMP-10787,2014-06-14,Sales,Mid,High School,Male,65000.0,0.23,2.7,17,69.0,2,2024-08-20,Low
+EMP-10788,2012-08-09,R&D,Junior,Bachelor's,Male,53100.0,0.02,4.0,4,,2,2024-02-22,Medium
+EMP-10789,2011-12-13,Legal,Manager,Master's,Female,123700.0,0.19,2.6,17,54.0,3,2024-06-24,Low
+EMP-10790,2010-10-03,Finance,Manager,PhD,Male,127600.0,0.2,2.8,15,23.0,2,2024-02-24,Medium
+EMP-10791,2011-02-10,Marketing,Manager,Master's,Male,126900.0,0.18,1.4,15,,2,2024-03-19,Low
+EMP-10792,2019-02-07,Finance,Mid,Master's,Male,67100.0,0.16,,0,106.0,3,2024-07-05,Low
+EMP-10793,2022-07-12,Operations,Lead,High School,Male,110300.0,0.03,,24,70.0,5,2024-08-29,High
+EMP-10794,2017-04-11,R&D,Mid,High School,Male,73500.0,0.02,4.3,26,53.0,3,2024-09-05,Medium
+EMP-10795,2019-12-04,Operations,Junior,Master's,Female,53500.0,0.2,4.1,9,60.0,3,2024-02-12,Low
+EMP-10796,2022-04-24,Engineering,Senior,Associate,Female,92700.0,0.24,3.0,1,92.0,4,2024-06-21,High
+EMP-10797,2017-01-29,Finance,Manager,High School,Female,134500.0,0.25,2.7,25,76.0,4,2024-06-12,Low
+EMP-10798,2020-03-20,R&D,Senior,PhD,Female,96300.0,0.1,1.8,19,81.0,4,2024-08-31,Low
+EMP-10799,2022-12-16,Legal,Manager,PhD,Female,132100.0,,4.4,13,62.0,2,2024-03-06,Low
+EMP-10800,2010-01-08,Operations,Junior,Master's,Male,36400.0,0.06,2.5,15,22.0,3,2024-02-25,Low
+EMP-10801,2020-08-14,HR,Junior,PhD,Male,39900.0,0.13,4.0,27,33.0,3,2024-09-27,Low
+EMP-10802,2020-07-22,Marketing,Junior,PhD,Male,49700.0,0.16,2.5,25,109.0,5,2024-10-15,High
+EMP-10803,2021-06-10,Operations,Lead,PhD,Female,113000.0,0.19,1.0,26,106.0,1,2024-05-08,Low
+EMP-10804,2017-09-05,Finance,Mid,Bachelor's,Male,79000.0,0.01,2.2,17,93.0,1,2024-09-17,Low
+EMP-10805,2023-04-15,Operations,Mid,High School,Female,58800.0,0.02,4.5,19,13.0,0,2024-07-18,Low
+EMP-10806,2022-04-02,Sales,Junior,High School,Female,43300.0,0.21,4.1,29,38.0,3,2024-04-17,Low
+EMP-10807,2018-07-10,Finance,Director,Bachelor's,Female,167700.0,0.07,4.1,20,,5,2024-06-30,High
+EMP-10808,2015-04-05,Legal,Manager,Master's,Female,132500.0,0.22,4.2,20,16.0,0,2024-05-08,Medium
+EMP-10809,2018-07-01,Finance,Junior,High School,Male,36600.0,0.15,2.8,11,66.0,2,2024-12-02,High
+EMP-10810,2017-12-19,Engineering,Lead,PhD,Female,124200.0,0.07,1.8,14,,3,2024-01-11,Low
+EMP-10811,2011-06-10,Marketing,Lead,Associate,Male,119800.0,0.18,4.0,8,1.0,1,2024-04-08,Medium
+EMP-10812,2018-10-29,R&D,Mid,Bachelor's,Female,78400.0,0.24,3.5,19,117.0,5,2024-12-29,Medium
+EMP-10813,2021-10-21,Operations,Manager,Associate,Female,123600.0,0.1,1.7,27,47.0,4,2024-05-22,Medium
+EMP-10814,2015-12-23,Operations,Lead,Associate,Male,119900.0,0.11,3.5,24,52.0,3,2024-09-22,Low
+EMP-10815,2017-03-23,Finance,Lead,Associate,Female,116900.0,,1.6,5,80.0,0,2024-08-11,Medium
+EMP-10816,2011-08-13,Finance,Director,Associate,,173100.0,0.13,4.4,17,42.0,1,2024-07-15,Low
+EMP-10817,2022-03-07,Engineering,Manager,Master's,Male,137400.0,0.22,,16,4.0,3,2024-03-23,Low
+EMP-10818,2015-01-03,Finance,Senior,High School,Male,97100.0,0.02,2.9,17,,1,2024-08-11,Medium
+EMP-10819,2015-12-11,Marketing,Mid,Associate,Male,64000.0,0.16,1.7,21,67.0,0,2024-03-09,Medium
+EMP-10820,2015-11-19,Marketing,Director,Master's,Female,173200.0,0.22,2.4,18,,1,2024-03-11,Low
+EMP-10821,2020-08-13,Sales,Manager,Associate,Male,133800.0,0.01,1.9,3,107.0,3,2024-01-07,Low
+EMP-10822,2017-10-19,Marketing,Lead,Bachelor's,Male,110200.0,,2.3,11,,5,2024-02-26,Medium
+EMP-10823,2021-09-16,Marketing,Director,High School,Female,164100.0,0.06,3.5,4,31.0,5,2024-04-19,Low
+EMP-10824,2023-03-23,Sales,Senior,Master's,Female,85300.0,0.22,1.9,2,102.0,4,2024-10-26,Low
+EMP-10825,2020-09-09,Engineering,Manager,High School,Female,125900.0,0.21,2.2,5,25.0,2,2024-09-29,Low
+EMP-10826,2022-10-20,Finance,Junior,High School,Female,42700.0,0.18,1.5,16,10.0,0,2024-07-13,Low
+EMP-10827,2014-12-18,Operations,Junior,PhD,Female,32900.0,0.14,4.5,19,23.0,2,2024-01-15,Low
+EMP-10828,2013-03-09,Engineering,Manager,Associate,Female,122800.0,,1.5,24,14.0,5,2024-01-05,Medium
+EMP-10829,2011-06-24,Legal,Senior,PhD,Female,89400.0,0.17,1.4,2,42.0,0,2024-02-14,Low
+EMP-10830,2021-11-10,Sales,Junior,High School,Female,44100.0,0.06,4.3,19,80.0,4,2024-08-25,Low
+EMP-10831,2018-03-02,R&D,Senior,PhD,Male,84300.0,0.21,2.4,23,20.0,4,2024-01-23,Medium
+EMP-10832,2021-10-02,Marketing,Manager,Bachelor's,Prefer not to say,142200.0,0.16,4.1,24,75.0,4,2024-04-14,Low
+EMP-10833,2014-08-06,Operations,Manager,Associate,Male,124200.0,,4.0,0,37.0,0,2024-10-20,Low
+EMP-10834,2021-10-31,Sales,Director,Master's,Female,178300.0,0.04,1.3,4,,4,2024-09-30,Medium
+EMP-10835,2013-10-17,Sales,Junior,,Female,33700.0,0.12,4.1,29,,4,2024-02-06,Low
+EMP-10836,2018-03-16,Marketing,Junior,Master's,Female,38500.0,0.04,2.5,22,111.0,1,2024-06-14,Medium
+EMP-10837,2015-05-09,Marketing,Mid,Bachelor's,Male,72100.0,0.07,4.4,7,,1,2024-06-22,Low
+EMP-10838,2013-11-12,Marketing,Lead,Bachelor's,Female,123000.0,0.2,1.9,5,86.0,2,2024-11-15,Low
+EMP-10839,2013-06-02,Operations,Lead,Associate,Female,115200.0,0.16,1.1,2,17.0,5,2024-10-13,Low
+EMP-10840,2020-04-28,R&D,Junior,PhD,Female,42200.0,0.05,1.2,18,109.0,1,2024-08-24,High
+EMP-10841,2013-12-26,Engineering,Director,PhD,Female,177600.0,0.09,2.7,3,44.0,2,2024-09-05,Medium
+EMP-10842,2010-12-21,Operations,Junior,High School,Female,44400.0,0.06,1.2,11,10.0,3,2024-11-23,High
+EMP-10843,2017-03-22,Marketing,Director,High School,Female,172200.0,0.14,2.5,22,81.0,2,2024-04-15,Low
+EMP-10844,2018-07-21,Operations,Lead,PhD,Female,122900.0,,4.0,3,49.0,4,2024-01-04,Low
+EMP-10845,2018-02-11,Sales,Junior,Bachelor's,Female,52700.0,0.2,2.9,15,93.0,2,2024-05-04,High
+EMP-10846,2019-08-08,Legal,Manager,Master's,Male,140900.0,0.01,1.8,26,101.0,4,2024-04-14,Low
+EMP-10847,2012-10-04,R&D,Senior,PhD,Male,97400.0,0.14,3.7,26,48.0,4,2024-06-30,Low
+EMP-10848,2019-03-13,Marketing,Lead,Master's,Female,112400.0,0.11,1.3,1,55.0,3,2024-07-14,Medium
+EMP-10849,2013-06-14,Legal,Senior,Bachelor's,Male,93300.0,,4.3,20,4.0,1,2024-02-23,Low
+EMP-10850,2015-08-23,Sales,Junior,High School,Female,42200.0,0.18,3.7,16,38.0,1,2024-02-20,Low
+EMP-10851,2018-06-01,Marketing,Senior,Associate,Male,93500.0,0.22,3.3,19,37.0,0,2024-10-29,Low
+EMP-10852,2012-04-22,Marketing,Senior,Associate,Male,100800.0,0.12,3.3,1,28.0,4,2024-03-05,Low
+EMP-10853,2018-03-08,Engineering,Director,High School,Male,165500.0,0.23,2.1,0,68.0,4,2024-04-12,Medium
+EMP-10854,2017-12-31,Finance,Director,Master's,Female,181700.0,,3.7,24,63.0,3,2024-08-13,Low
+EMP-10855,2021-09-21,Marketing,Mid,High School,Male,76200.0,0.11,1.9,27,92.0,5,2024-08-21,Low
+EMP-10856,2021-09-10,Operations,Manager,Master's,Female,139000.0,0.16,4.1,13,55.0,1,2024-10-19,Low
+EMP-10857,2016-10-13,Marketing,Lead,PhD,Female,104200.0,0.07,3.0,6,74.0,3,2024-10-26,Medium
+EMP-10858,2020-02-27,HR,Lead,High School,Female,117900.0,0.0,2.8,3,118.0,5,2024-11-21,Low
+EMP-10859,2011-12-22,Operations,Manager,Master's,Female,136600.0,0.04,2.4,24,,3,2024-12-16,Low
+EMP-10860,2016-03-02,Sales,Senior,PhD,Female,95600.0,0.14,1.3,8,61.0,2,2024-12-27,Low
+EMP-10861,2018-11-15,HR,Manager,Master's,Male,122400.0,0.16,1.6,2,54.0,5,2024-08-13,Low
+EMP-10862,2016-07-07,Sales,Manager,Bachelor's,,143800.0,0.17,2.7,25,116.0,0,2024-02-04,Low
+EMP-10863,2020-01-04,Finance,Junior,Master's,Non-binary,39400.0,0.15,1.3,4,37.0,1,2024-10-18,Low
+EMP-10864,2012-07-04,Sales,Manager,Bachelor's,Male,128800.0,0.07,2.4,25,101.0,1,2024-01-28,Low
+EMP-10865,2020-01-29,Marketing,Mid,High School,Female,63800.0,0.15,3.8,20,86.0,0,2024-08-28,High
+EMP-10866,2020-09-23,Legal,Manager,Master's,Female,133900.0,0.04,1.6,14,73.0,5,2024-03-27,Low
+EMP-10867,2013-11-30,Sales,Junior,High School,Male,49800.0,0.11,,22,100.0,5,2024-07-23,Low
+EMP-10868,2021-08-09,HR,Junior,Master's,Male,43900.0,0.13,,16,40.0,5,2024-11-29,Low
+EMP-10869,2013-05-12,R&D,Senior,Associate,Male,103600.0,0.05,4.7,24,,4,2024-12-10,Low
+EMP-10870,2010-02-18,Engineering,Mid,High School,Female,79800.0,0.23,2.3,4,45.0,0,2024-12-31,Low
+EMP-10871,2012-12-05,Engineering,Junior,Bachelor's,Male,36100.0,0.2,1.4,20,,0,2024-05-02,Low
+EMP-10872,2018-03-25,Marketing,Mid,Master's,Female,78500.0,0.18,2.2,4,116.0,3,2024-11-28,Low
+EMP-10873,2020-12-18,Operations,Senior,Associate,Female,100600.0,,1.6,23,47.0,4,2024-08-28,Low
+EMP-10874,2021-09-05,R&D,Manager,Associate,Male,123100.0,0.22,1.7,12,43.0,0,2024-12-20,Medium
+EMP-10875,2015-05-01,Legal,Manager,High School,Female,137100.0,0.1,,18,106.0,2,2024-08-29,Medium
+EMP-10876,2018-04-26,Marketing,Director,Bachelor's,Female,181400.0,0.22,1.2,12,35.0,2,2024-11-06,Low
+EMP-10877,2021-09-27,R&D,Senior,Associate,Male,100700.0,0.11,4.8,6,37.0,4,2024-03-13,Low
+EMP-10878,2017-08-18,Legal,Manager,Bachelor's,Female,136200.0,0.06,4.4,13,109.0,1,2024-03-01,Low
+EMP-10879,2018-07-20,Marketing,Director,Master's,Male,162800.0,0.23,3.2,0,108.0,2,2024-09-11,High
+EMP-10880,2015-09-03,Operations,Lead,PhD,Female,106300.0,0.09,1.4,12,97.0,4,2024-11-02,High
+EMP-10881,2010-05-26,Sales,Junior,Associate,Non-binary,46100.0,0.06,1.2,5,111.0,3,2024-07-14,Low
+EMP-10882,2022-06-23,Marketing,Director,PhD,Prefer not to say,165000.0,,1.7,4,,3,2024-02-02,Medium
+EMP-10883,2014-07-04,HR,Senior,Bachelor's,Male,88000.0,,2.7,21,97.0,5,2024-12-24,Low
+EMP-10884,2010-01-07,Engineering,Junior,Master's,Female,49200.0,0.12,3.7,6,13.0,0,2024-05-02,Low
+EMP-10885,2022-10-18,Legal,Manager,Master's,Female,131500.0,,1.1,8,,5,2024-04-27,Low
+EMP-10886,2015-10-29,Marketing,Junior,Master's,Female,48900.0,0.21,1.5,6,56.0,1,2024-01-03,Medium
+EMP-10887,2011-04-18,Engineering,Mid,Bachelor's,,68700.0,0.23,,14,24.0,0,2024-07-19,Medium
+EMP-10888,2023-04-01,R&D,Lead,Bachelor's,Female,105300.0,,,8,118.0,4,2024-10-16,Low
+EMP-10889,2014-01-01,Operations,Junior,Bachelor's,Prefer not to say,39300.0,0.15,4.9,19,100.0,5,2024-04-24,Low
+EMP-10890,2016-11-16,Engineering,Lead,Master's,Female,121800.0,,1.4,10,57.0,4,2024-11-20,Low
+EMP-10891,2022-03-20,Legal,Lead,Master's,Male,103900.0,0.25,2.4,13,75.0,4,2024-11-27,Medium
+EMP-10892,2016-02-28,Operations,Lead,High School,Female,109200.0,0.1,4.4,25,54.0,4,2024-01-20,Medium
+EMP-10893,2017-04-08,Engineering,Junior,Master's,Female,44000.0,0.07,1.6,25,43.0,1,2024-05-04,Low
+EMP-10894,2015-09-26,Marketing,Director,High School,Male,176200.0,0.15,1.7,28,,2,2024-02-18,Medium
+EMP-10895,2015-06-05,Legal,Senior,Master's,Male,87200.0,0.06,4.2,17,81.0,4,2024-04-12,Low
+EMP-10896,2015-12-15,R&D,Junior,High School,Male,44500.0,0.16,3.1,24,52.0,0,2024-01-01,Low
+EMP-10897,2019-10-29,Legal,Director,Associate,Female,182900.0,0.07,2.8,4,53.0,1,2024-01-20,Low
+EMP-10898,2012-01-19,Marketing,Manager,Associate,Female,124500.0,0.09,,7,10.0,4,2024-08-26,Low
+EMP-10899,2021-10-12,Marketing,Senior,PhD,Non-binary,95700.0,0.04,1.3,23,72.0,1,2024-01-25,Low
+EMP-10900,2021-01-24,Finance,Junior,Bachelor's,Male,38600.0,0.2,1.6,29,90.0,3,2024-07-24,Medium
+EMP-10901,2011-12-29,Operations,Junior,Associate,Male,42700.0,0.14,3.8,13,94.0,1,2024-05-03,Low
+EMP-10902,2014-07-11,Legal,Junior,High School,,41900.0,0.15,3.9,25,52.0,3,2024-04-22,Low
+EMP-10903,2012-11-17,Legal,Lead,PhD,Female,112800.0,0.25,3.3,23,118.0,4,2024-12-10,Low
+EMP-10904,2019-06-29,Marketing,Director,High School,Female,178900.0,0.25,3.2,6,91.0,3,2024-01-23,Medium
+EMP-10905,2016-07-07,Marketing,Director,Master's,Female,168100.0,0.0,2.9,9,24.0,2,2024-10-11,Low
+EMP-10906,2018-05-03,Marketing,Junior,Bachelor's,Male,48100.0,0.08,1.3,1,83.0,2,2024-11-22,Low
+EMP-10907,2010-12-26,Legal,Junior,Bachelor's,Female,49900.0,0.07,,21,,4,2024-10-22,Low
+EMP-10908,2019-12-05,Engineering,Director,PhD,Male,178400.0,0.12,3.1,26,86.0,3,2024-07-30,Low
+EMP-10909,2018-06-05,HR,Director,Associate,Female,162400.0,0.17,2.1,0,72.0,5,2024-05-14,Low
+EMP-10910,2018-03-27,Marketing,Director,Master's,Female,183900.0,0.17,4.1,22,96.0,3,2024-01-22,Low
+EMP-10911,2010-12-09,Legal,Mid,Bachelor's,Female,61700.0,0.21,3.3,12,0.0,5,2024-03-19,Low
+EMP-10912,2016-08-15,Operations,Junior,Master's,Male,51800.0,,2.8,2,85.0,2,2024-08-27,Low
+EMP-10913,2019-02-24,HR,Manager,Bachelor's,Female,134400.0,0.01,,28,68.0,4,2024-01-10,Medium
+EMP-10914,2019-09-01,Operations,Manager,Bachelor's,Non-binary,140400.0,0.16,4.6,13,22.0,3,2024-09-02,Low
+EMP-10915,2015-10-05,HR,Senior,Bachelor's,Male,87400.0,0.15,,13,,2,2024-02-23,Medium
+EMP-10916,2017-11-26,R&D,Junior,Master's,Male,38000.0,0.16,4.9,14,14.0,5,2024-12-29,Low
+EMP-10917,2015-05-09,Sales,Lead,,Female,102600.0,0.06,4.5,4,74.0,4,2024-02-19,Low
+EMP-10918,2018-08-23,HR,Manager,PhD,Male,143300.0,0.02,4.4,11,95.0,5,2024-04-05,Low
+EMP-10919,2022-12-24,R&D,Mid,Master's,Female,75100.0,,3.9,29,63.0,3,2024-03-14,Low
+EMP-10920,2012-11-26,Marketing,Mid,Bachelor's,Male,60700.0,,4.5,21,66.0,1,2024-09-27,Low
+EMP-10921,2014-04-19,Engineering,Senior,,Male,100600.0,0.12,1.2,27,96.0,0,2024-03-24,Medium
+EMP-10922,2023-01-06,Operations,Junior,,Female,43900.0,0.18,1.2,10,89.0,3,2024-11-11,High
+EMP-10923,2018-05-09,Legal,Director,Bachelor's,Female,163800.0,0.14,1.1,23,0.0,5,2024-09-19,Low
+EMP-10924,2011-06-04,Finance,Mid,PhD,Non-binary,58800.0,0.01,1.0,10,42.0,0,2024-06-14,Medium
+EMP-10925,2014-07-23,Finance,Senior,Master's,Female,88800.0,0.15,2.4,21,77.0,0,2024-02-24,Low
+EMP-10926,2017-05-22,Sales,Junior,PhD,Prefer not to say,48500.0,0.23,,22,27.0,2,2024-09-18,High
+EMP-10927,2011-08-03,Sales,Mid,High School,Female,57800.0,0.01,4.1,20,72.0,3,2024-07-14,Low
+EMP-10928,2011-10-17,Engineering,Mid,Master's,Male,73500.0,0.11,3.5,27,86.0,2,2024-01-02,Low
+EMP-10929,2019-12-29,Legal,Lead,PhD,Female,109000.0,0.14,,7,5.0,4,2024-02-06,Low
+EMP-10930,2018-07-06,Finance,Senior,PhD,Male,98700.0,0.1,4.1,24,16.0,1,2024-01-16,Medium
+EMP-10931,2018-10-27,Legal,Director,Master's,Male,177200.0,0.18,2.4,28,0.0,3,2024-10-11,Low
+EMP-10932,2021-10-17,R&D,Director,PhD,Male,167100.0,0.17,2.2,3,45.0,4,2024-11-27,Low
+EMP-10933,2019-04-21,Engineering,Director,Bachelor's,Male,180300.0,0.18,,23,7.0,0,2024-02-13,Medium
+EMP-10934,2021-02-20,Legal,Senior,PhD,Male,89000.0,0.22,4.0,2,16.0,0,2024-09-14,Low
+EMP-10935,2010-07-29,R&D,Lead,Bachelor's,Female,106700.0,0.18,4.8,15,,5,2024-10-14,Low
+EMP-10936,2012-06-02,Engineering,Junior,High School,Male,37000.0,0.01,3.9,26,16.0,0,2024-11-13,Medium
+EMP-10937,2023-04-19,Sales,Director,High School,Male,182700.0,0.07,3.8,22,98.0,2,2024-11-09,Medium
+EMP-10938,2022-08-22,Sales,Junior,Bachelor's,Male,46400.0,,3.8,6,99.0,1,2024-10-31,Low
+EMP-10939,2020-05-17,HR,Manager,Associate,Male,123000.0,0.19,4.3,1,23.0,3,2024-10-02,Low
+EMP-10940,2020-05-14,Sales,Manager,Bachelor's,Male,135900.0,0.03,4.5,13,103.0,4,2024-02-09,Low
+EMP-10941,2019-10-13,Sales,Mid,Associate,,61500.0,0.25,4.6,15,54.0,2,2024-12-27,High
+EMP-10942,2019-04-22,Legal,Junior,High School,Female,51700.0,,2.3,17,116.0,2,2024-01-28,Low
+EMP-10943,2020-08-15,Finance,Mid,,Male,79500.0,0.19,4.7,29,,4,2024-12-04,High
+EMP-10944,2013-12-14,R&D,Senior,Associate,Non-binary,90500.0,0.13,1.5,5,48.0,2,2024-10-06,Low
+EMP-10945,2011-06-18,Operations,Lead,Master's,Male,121800.0,,1.9,0,106.0,2,2024-11-10,Low
+EMP-10946,2019-11-13,R&D,Director,PhD,Female,171000.0,,2.6,5,101.0,4,2024-05-28,Low
+EMP-10947,2018-12-02,Engineering,Director,High School,Male,169700.0,0.11,2.9,5,38.0,5,2024-08-22,Medium
+EMP-10948,2021-01-07,R&D,Mid,Master's,Male,70800.0,0.04,4.2,14,,1,2024-07-22,Low
+EMP-10949,2013-01-13,R&D,Senior,,Male,89100.0,0.13,1.6,5,71.0,0,2024-12-09,Medium
+EMP-10950,2021-06-24,Operations,Junior,Bachelor's,Female,48800.0,0.13,2.4,18,97.0,4,2024-01-04,Medium
+EMP-10951,2010-03-19,HR,Senior,Associate,Female,102600.0,0.07,1.7,20,53.0,0,2024-10-13,Medium
+EMP-10952,2015-03-19,Sales,Senior,Associate,Female,97300.0,0.01,3.4,25,84.0,5,2024-04-16,Medium
+EMP-10953,2014-06-29,Sales,Mid,High School,Female,58800.0,0.23,1.5,25,107.0,0,2024-01-13,High
+EMP-10954,2019-01-04,Sales,Director,Bachelor's,Female,165000.0,0.23,1.2,10,4.0,5,2024-04-05,Low
+EMP-10955,2022-02-24,Engineering,Lead,PhD,Male,102200.0,0.13,3.3,12,,5,2024-09-16,Low
+EMP-10956,2010-11-29,Marketing,Mid,PhD,Male,68100.0,0.07,4.7,8,53.0,0,2024-08-22,Low
+EMP-10957,2016-08-05,R&D,Mid,Master's,Male,62400.0,0.22,3.6,14,32.0,1,2024-04-16,Medium
+EMP-10958,2022-06-04,Legal,Mid,Bachelor's,Male,64800.0,0.12,3.2,20,0.0,3,2024-03-03,High
+EMP-10959,2017-05-28,Marketing,Director,High School,Female,179600.0,0.21,4.1,24,90.0,1,2024-12-28,Medium
+EMP-10960,2018-09-10,Sales,Director,PhD,Male,170400.0,0.14,1.9,29,4.0,3,2024-11-28,High
+EMP-10961,2020-04-25,Finance,Director,Master's,Female,169600.0,0.09,3.2,22,7.0,2,2024-04-16,Medium
+EMP-10962,2012-08-25,Operations,Senior,Master's,Female,98900.0,,4.3,28,63.0,3,2024-12-09,Medium
+EMP-10963,2012-01-08,Marketing,Senior,Bachelor's,Female,87700.0,0.04,3.4,26,45.0,5,2024-08-07,Low
+EMP-10964,2014-12-14,Operations,Lead,High School,Female,109600.0,0.07,3.6,18,38.0,4,2024-02-26,Medium
+EMP-10965,2011-09-24,HR,Junior,Associate,Female,51800.0,0.11,3.1,10,103.0,4,2024-11-09,High
+EMP-10966,2022-10-22,Legal,Junior,Bachelor's,Female,37700.0,0.15,4.5,8,,1,2024-02-14,Low
+EMP-10967,2010-05-07,Engineering,Senior,,Male,88600.0,0.06,2.0,15,111.0,5,2024-10-06,Low
+EMP-10968,2012-04-13,Operations,Lead,High School,Male,121200.0,0.16,1.3,19,25.0,5,2024-09-23,Low
+EMP-10969,2021-02-22,Engineering,Director,PhD,Female,165600.0,0.23,2.8,0,1.0,1,2024-06-29,High
+EMP-10970,2011-12-24,Operations,Manager,PhD,Male,137200.0,,3.1,16,97.0,0,2024-12-12,Medium
+EMP-10971,2014-11-02,Finance,Senior,Master's,Male,101500.0,0.2,4.3,17,,3,2024-02-18,Low
+EMP-10972,2022-08-29,Sales,Senior,Master's,Female,89100.0,0.23,4.5,6,39.0,1,2024-02-14,High
+EMP-10973,2020-03-10,HR,Lead,Associate,,110900.0,0.13,3.8,15,116.0,1,2024-05-02,Medium
+EMP-10974,2011-03-27,Operations,Director,Master's,Female,175900.0,0.14,1.9,22,,4,2024-02-21,Low
+EMP-10975,2014-06-26,Marketing,Manager,Master's,Male,138700.0,0.0,4.0,11,38.0,3,2024-02-15,Low
+EMP-10976,2017-07-12,HR,Manager,High School,Male,123700.0,0.15,1.8,7,54.0,1,2024-07-07,Low
+EMP-10977,2020-10-30,Operations,Lead,,Female,118000.0,0.18,1.4,2,92.0,0,2024-05-20,Medium
+EMP-10978,2011-03-25,Engineering,Junior,PhD,Male,32100.0,0.25,,28,117.0,3,2024-06-03,Low
+EMP-10979,2022-05-06,Operations,Mid,Bachelor's,Female,71500.0,0.12,4.1,13,83.0,2,2024-06-07,Medium
+EMP-10980,2019-05-17,R&D,Junior,PhD,Male,34800.0,0.24,5.0,3,48.0,1,2024-05-31,Low
+EMP-10981,2023-02-05,HR,Lead,Associate,Non-binary,104300.0,0.05,1.6,7,8.0,2,2024-03-16,High
+EMP-10982,2013-02-22,R&D,Manager,PhD,Female,140300.0,0.24,4.3,29,86.0,1,2024-09-09,Low
+EMP-10983,2019-02-16,Finance,Manager,High School,Male,144200.0,0.17,2.8,20,16.0,1,2024-11-06,Medium
+EMP-10984,2011-02-15,Finance,Lead,Bachelor's,Male,115600.0,0.2,3.8,27,15.0,2,2024-10-22,Low
+EMP-10985,2013-04-07,Engineering,Manager,Bachelor's,Male,126700.0,0.13,3.4,22,9.0,4,2024-06-20,Low
+EMP-10986,2017-03-10,HR,Mid,PhD,Female,67500.0,0.1,2.7,28,100.0,5,2024-04-08,Low
+EMP-10987,2017-07-01,HR,Senior,High School,Female,97100.0,0.22,,16,47.0,4,2024-01-04,Low
+EMP-10988,2014-04-08,Engineering,Senior,High School,Female,87600.0,0.13,4.6,5,4.0,1,2024-02-10,Low
+EMP-10989,2021-08-16,Sales,Mid,Master's,Female,77900.0,,2.3,25,90.0,1,2024-02-08,Low
+EMP-10990,2010-02-19,Sales,Senior,Master's,Male,89100.0,0.22,4.5,7,86.0,1,2024-01-23,High
+EMP-10991,2014-03-05,Legal,Senior,Master's,Male,99800.0,0.13,3.0,29,91.0,0,2024-02-28,Medium
+EMP-10992,2022-02-01,Marketing,Junior,Associate,Male,43000.0,0.07,1.7,28,98.0,2,2024-12-15,Low
+EMP-10993,2016-02-29,Operations,Senior,PhD,Male,95400.0,0.07,2.0,0,76.0,2,2024-12-20,Low
+EMP-10994,2021-08-30,Legal,Director,Associate,Female,170000.0,0.1,2.1,8,90.0,4,2024-11-02,Medium
+EMP-10995,2015-11-20,HR,Manager,Associate,Male,128500.0,0.2,4.3,15,103.0,3,2024-04-19,High
+EMP-10996,2011-12-11,Operations,Mid,High School,Female,64500.0,,1.9,28,7.0,4,2024-09-23,Low
+EMP-10997,2017-01-08,Operations,Manager,Bachelor's,,127300.0,0.23,3.6,18,57.0,3,2024-07-16,Low
+EMP-10998,2018-08-10,Engineering,Manager,Associate,Female,135400.0,0.12,4.9,8,9.0,4,2024-08-21,High
+EMP-10999,2015-09-21,Marketing,Junior,High School,Female,43700.0,0.14,1.6,0,35.0,3,2024-07-27,Low
+EMP-11000,2016-09-13,Marketing,Junior,,Female,52300.0,0.05,,15,,4,2024-11-08,Medium
+EMP-11001,2022-06-19,Sales,Mid,PhD,Male,71300.0,0.07,3.6,23,21.0,0,2024-10-21,Medium
+EMP-11002,2018-11-09,Legal,Senior,Associate,Female,91900.0,0.15,,25,88.0,5,2024-11-28,Medium
+EMP-11003,2021-06-17,HR,Lead,,Male,112200.0,0.1,2.8,29,115.0,0,2024-04-17,Medium
+EMP-11004,2019-06-05,Marketing,Mid,Bachelor's,Non-binary,62300.0,0.08,3.2,15,,1,2024-02-10,Low
+EMP-11005,2011-02-24,HR,Manager,Associate,Female,142800.0,0.25,4.0,25,5.0,3,2024-01-12,Low
+EMP-11006,2016-11-18,Engineering,Lead,High School,Female,109200.0,0.02,2.6,14,43.0,3,2024-01-31,High
+EMP-11007,2016-10-30,Finance,Lead,Associate,Male,116600.0,0.1,3.8,4,11.0,1,2024-01-16,Low
+EMP-11008,2015-07-29,Finance,Lead,Associate,Female,104800.0,,,17,19.0,2,2024-12-09,Low
+EMP-11009,2018-07-12,Marketing,Manager,Associate,Female,126700.0,0.11,1.6,22,85.0,0,2024-12-14,Medium
+EMP-11010,2019-10-13,Marketing,Lead,High School,Male,108300.0,,1.8,11,29.0,5,2024-03-10,Medium
+EMP-11011,2022-02-07,Sales,Senior,Master's,Female,101300.0,0.17,,7,105.0,3,2024-08-08,High
+EMP-11012,2015-10-08,Marketing,Director,Associate,Male,172300.0,,3.1,9,94.0,5,2024-01-29,Low
+EMP-11013,2016-11-03,Sales,Mid,Master's,Male,61100.0,0.17,3.4,9,110.0,4,2024-04-02,Medium
+EMP-11014,2014-07-13,Marketing,Director,Associate,Female,178500.0,0.15,3.8,9,66.0,1,2024-11-12,Low
+EMP-11015,2012-12-15,HR,Mid,PhD,Female,66700.0,,1.9,17,96.0,3,2024-05-30,Medium
+EMP-11016,2011-03-03,Marketing,Director,PhD,Male,168000.0,,2.6,4,96.0,0,2024-08-14,Low
+EMP-11017,2014-08-27,Engineering,Senior,Associate,Male,95700.0,0.16,1.5,24,85.0,0,2024-05-10,Low
+EMP-11018,2022-01-15,Sales,Lead,Master's,Female,117700.0,0.21,4.6,29,,4,2024-12-27,Low
+EMP-11019,2018-05-21,Finance,Junior,Master's,Male,46400.0,0.15,3.2,27,49.0,5,2024-03-09,Low
+EMP-11020,2020-05-30,Sales,Director,Master's,Male,181400.0,0.07,4.3,23,45.0,4,2024-05-09,Medium
+EMP-11021,2020-12-19,Marketing,Mid,High School,Female,72900.0,0.21,2.2,12,2.0,1,2024-06-02,Low
+EMP-11022,2023-02-04,Sales,Director,PhD,Male,177500.0,0.13,1.2,17,11.0,5,2024-06-27,Low
+EMP-11023,2013-03-03,Operations,Lead,Associate,Female,111100.0,0.05,3.4,4,44.0,0,2024-01-15,Medium
+EMP-11024,2018-03-16,Operations,Junior,Bachelor's,Male,47400.0,0.21,2.2,15,35.0,0,2024-06-15,Low
+EMP-11025,2017-08-31,Operations,Lead,,Female,119000.0,0.12,3.5,26,109.0,3,2024-07-14,Low
+EMP-11026,2014-06-29,Legal,Manager,PhD,,128500.0,0.05,5.0,26,3.0,3,2024-02-18,Low
+EMP-11027,2020-03-28,HR,Manager,Master's,,137500.0,0.05,2.7,28,41.0,1,2024-03-24,Low
+EMP-11028,2022-06-22,HR,Lead,Associate,Female,121400.0,0.04,1.6,0,29.0,4,2024-08-14,Low
+EMP-11029,2011-02-24,Legal,Mid,PhD,Male,73700.0,0.11,4.2,10,23.0,1,2024-03-24,Low
+EMP-11030,2017-01-18,Sales,Mid,High School,Female,61700.0,0.01,2.0,18,8.0,1,2024-11-30,Low
+EMP-11031,2010-03-11,Legal,Junior,PhD,Male,48400.0,0.17,4.6,14,105.0,2,2024-12-01,Low
+EMP-11032,2021-12-15,Sales,Manager,,Female,127500.0,0.1,,4,,2,2024-08-30,Low
+EMP-11033,2011-07-09,Engineering,Senior,High School,Male,89600.0,0.09,4.1,20,104.0,0,2024-11-15,Medium
+EMP-11034,2019-03-04,Operations,Director,PhD,Non-binary,164400.0,0.04,1.8,26,17.0,0,2024-06-15,Low
+EMP-11035,2022-09-02,Finance,Mid,High School,Male,68500.0,0.13,3.8,11,,0,2024-05-20,High
+EMP-11036,2017-04-04,Finance,Lead,High School,Male,125000.0,0.19,2.0,2,103.0,1,2024-05-07,Low
+EMP-11037,2010-10-17,Operations,Mid,High School,Female,69600.0,0.21,1.8,13,45.0,4,2024-01-07,Medium
+EMP-11038,2016-02-19,R&D,Director,Bachelor's,Male,164300.0,0.17,4.7,12,69.0,3,2024-07-30,Medium
+EMP-11039,2014-12-05,Legal,Mid,High School,Male,70200.0,0.15,4.6,14,86.0,1,2024-10-02,Low
+EMP-11040,2019-11-07,Sales,Mid,PhD,Male,60300.0,0.16,3.3,3,28.0,0,2024-01-11,Low
+EMP-11041,2016-07-16,Legal,Lead,Associate,,113600.0,,,10,112.0,3,2024-06-23,Medium
+EMP-11042,2014-07-01,Sales,Mid,Master's,Male,70900.0,0.13,3.1,6,55.0,1,2024-04-28,Low
+EMP-11043,2014-09-12,Operations,Mid,High School,Male,68000.0,0.17,2.9,14,29.0,3,2024-10-05,Low
+EMP-11044,2023-04-13,Operations,Director,Bachelor's,Prefer not to say,173500.0,0.0,1.9,23,69.0,3,2024-07-01,Low
+EMP-11045,2020-03-13,Finance,Lead,Bachelor's,Female,124600.0,0.19,3.7,11,51.0,2,2024-06-17,Low
+EMP-11046,2019-02-08,Engineering,Junior,PhD,Male,44800.0,0.0,1.9,24,91.0,4,2024-01-01,High
+EMP-11047,2019-12-24,Finance,Mid,PhD,Female,78200.0,0.06,3.5,23,100.0,4,2024-05-02,Medium
+EMP-11048,2014-07-29,Marketing,Junior,High School,Female,37000.0,0.13,2.8,28,1.0,5,2024-06-24,Low
+EMP-11049,2014-07-23,Finance,Senior,PhD,Female,97200.0,0.24,2.3,29,7.0,1,2024-02-10,Low
+EMP-10816,2011-08-13,Finance,Director,Associate,,173100.0,0.13,4.4,17,42.0,1,2024-07-15,Low
+EMP-10884,2010-01-07,Engineering,Junior,Master's,Female,49200.0,0.12,3.7,6,13.0,0,2024-05-02,Low
+EMP-10342,2018-05-14,R&D,Lead,Bachelor's,Female,106500.0,0.0,3.1,16,26.0,2,2024-10-31,Low
+EMP-11007,2016-10-30,Finance,Lead,Associate,Male,116600.0,0.1,3.8,4,11.0,1,2024-01-16,Low
+EMP-10256,2014-12-28,Marketing,Senior,PhD,Male,98400.0,0.04,4.3,25,48.0,0,2024-02-15,Medium
+EMP-10381,2010-07-22,Finance,Director,PhD,Female,181100.0,,3.3,22,7.0,1,2024-11-17,High
+EMP-10451,2013-03-02,Operations,Manager,Master's,Female,126500.0,0.04,1.7,19,53.0,0,2024-07-12,Medium
+EMP-10449,2016-04-25,Marketing,Mid,Bachelor's,Male,58200.0,,2.6,4,65.0,1,2024-03-01,Low
+EMP-10128,2022-10-07,Marketing,Manager,High School,Prefer not to say,141100.0,0.21,2.4,12,101.0,4,2024-05-06,Low
+EMP-10445,2019-07-24,Operations,Mid,Associate,Female,78000.0,0.04,2.0,3,84.0,2,2024-12-20,Low
+EMP-10517,2018-12-18,Operations,Director,Bachelor's,Female,162600.0,,4.0,14,2.0,1,2024-05-19,Medium
+EMP-10929,2019-12-29,Legal,Lead,PhD,Female,109000.0,0.14,,7,5.0,4,2024-02-06,Low
+EMP-10191,2016-09-20,HR,Director,Bachelor's,Female,165900.0,0.23,3.4,10,6.0,4,2024-07-06,Low
+EMP-10461,2017-07-02,Finance,Senior,Master's,Male,100900.0,0.24,2.9,19,48.0,4,2024-03-11,Low
+EMP-10953,2014-06-29,Sales,Mid,High School,Female,58800.0,0.23,1.5,25,107.0,0,2024-01-13,High
+EMP-11004,2019-06-05,Marketing,Mid,Bachelor's,Non-binary,62300.0,0.08,3.2,15,,1,2024-02-10,Low
+EMP-10520,2016-05-04,Legal,Mid,PhD,Male,59700.0,0.17,2.5,15,59.0,3,2024-04-11,Medium
+EMP-10923,2018-05-09,Legal,Director,Bachelor's,Female,163800.0,0.14,1.1,23,0.0,5,2024-09-19,Low
+EMP-10689,2010-07-20,Sales,Lead,Bachelor's,Male,104200.0,0.1,3.5,0,53.0,0,2024-09-28,Low
+EMP-10292,2021-07-06,HR,Mid,PhD,Female,57400.0,0.12,3.1,18,86.0,2,2024-09-09,Medium
+EMP-10641,2015-02-12,Marketing,Manager,High School,Male,132500.0,,4.7,0,108.0,3,2024-11-09,Low
+EMP-10984,2011-02-15,Finance,Lead,Bachelor's,Male,115600.0,0.2,3.8,27,15.0,2,2024-10-22,Low
+EMP-10665,2015-12-30,Marketing,Lead,High School,Female,117600.0,,2.9,4,63.0,1,2024-04-21,Low
+EMP-11035,2022-09-02,Finance,Mid,High School,Male,68500.0,0.13,3.8,11,,0,2024-05-20,High
+EMP-10199,2019-01-02,R&D,Senior,Associate,Male,93100.0,0.05,1.3,22,37.0,3,2024-09-30,Low
+EMP-10214,2011-03-30,Finance,Lead,PhD,Female,103800.0,0.23,1.9,12,82.0,0,2024-03-19,Low
+EMP-10687,2013-02-19,Engineering,Junior,High School,Female,41800.0,,4.7,21,86.0,5,2024-06-23,Medium
+EMP-10895,2015-06-05,Legal,Senior,Master's,Male,87200.0,0.06,4.2,17,81.0,4,2024-04-12,Low
+EMP-10688,2016-09-03,Legal,Mid,Associate,Male,78500.0,0.2,2.5,23,51.0,4,2024-06-18,Medium
+EMP-10070,2013-09-02,R&D,Director,Master's,Female,173800.0,0.18,4.0,8,64.0,3,2024-10-06,Low
+EMP-10076,2013-10-08,Legal,Manager,Associate,Male,143200.0,0.01,2.0,25,116.0,0,2024-04-04,Medium
+EMP-10587,2010-09-17,Legal,Lead,High School,Male,117000.0,0.12,1.4,22,92.0,3,2024-12-20,Low
+EMP-10096,2013-03-08,Finance,Junior,High School,Female,33000.0,,3.6,27,49.0,3,2024-02-17,Low
+EMP-11029,2011-02-24,Legal,Mid,PhD,Male,73700.0,0.11,4.2,10,23.0,1,2024-03-24,Low
+EMP-10145,2020-12-14,Marketing,Senior,PhD,Male,87400.0,0.23,2.6,2,30.0,3,2024-01-18,Medium
+EMP-10834,2021-10-31,Sales,Director,Master's,Female,178300.0,0.04,1.3,4,,4,2024-09-30,Medium
+EMP-10915,2015-10-05,HR,Senior,Bachelor's,Male,87400.0,0.15,,13,,2,2024-02-23,Medium
+EMP-10896,2015-12-15,R&D,Junior,High School,Male,44500.0,0.16,3.1,24,52.0,0,2024-01-01,Low
+EMP-10607,2012-01-07,Finance,Manager,PhD,Male,128300.0,0.22,3.0,27,,3,2024-06-22,Low
+EMP-10499,2017-12-05,Engineering,Junior,Bachelor's,Non-binary,51500.0,0.1,2.5,1,21.0,4,2024-06-26,Low
+EMP-10724,2012-06-22,Marketing,Lead,Bachelor's,Female,105800.0,0.01,2.0,2,115.0,5,2024-12-02,Low
+EMP-10673,2015-08-08,Finance,Junior,PhD,Female,35400.0,0.19,1.8,8,93.0,5,2024-01-31,Medium
+EMP-10314,2013-01-25,Operations,Junior,PhD,Male,45300.0,0.05,1.2,23,83.0,1,2024-02-04,High
+EMP-10193,2011-10-20,HR,Mid,High School,Female,59200.0,0.2,2.8,5,68.0,2,2024-05-25,Medium
+EMP-10706,2017-07-12,Operations,Senior,Master's,Male,104900.0,0.18,3.6,7,52.0,0,2024-07-10,High
+EMP-10489,2022-05-14,Legal,Manager,PhD,Male,130400.0,0.11,4.3,21,55.0,5,2024-12-29,Low
+EMP-10289,2022-02-20,Marketing,Manager,Bachelor's,Male,122800.0,0.14,3.2,5,107.0,2,2024-06-27,Low
+EMP-10505,2017-02-28,HR,Junior,Master's,Female,34300.0,0.09,2.3,5,87.0,5,2024-06-06,High
+EMP-10572,2021-11-16,Marketing,Senior,Associate,Male,97300.0,0.08,,23,87.0,4,2024-05-15,Low
+EMP-10120,2012-06-24,Sales,Manager,Bachelor's,Male,137800.0,0.11,4.9,27,68.0,3,2024-12-02,Low
