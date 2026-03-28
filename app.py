@@ -1,12 +1,270 @@
 import streamlit as st
 import pandas as pd
 import gspread
+import sqlalchemy
 from google.oauth2.service_account import Credentials
 import numpy as np
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Data Studio", layout="wide")
+st.markdown("""
+<style>
 
+/* ── Root tokens ── */
+:root {
+    --bg:        #0f1117;
+    --surface:   #1a1d27;
+    --surface2:  #22263a;
+    --border:    #2e3248;
+    --accent:    #f0a500;
+    --accent2:   #e05c2a;
+    --text:      #e8eaf0;
+    --muted:     #7a7f9a;
+    --success:   #2ecc71;
+    --danger:    #e74c3c;
+    --radius:    10px;
+}
+
+/* ── Global ── */
+html, body, [data-testid="stAppViewContainer"], [data-testid="stApp"] {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+    font-family: 'DM Mono', monospace !important;
+}
+
+/* ── Hide default Streamlit chrome ── */
+#MainMenu, footer, header { visibility: hidden; }
+
+/* ── Custom app header ── */
+[data-testid="stAppViewContainer"]::before {
+    content: "◈ DATA STUDIO";
+    display: block;
+    font-family: 'Syne', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.4em;
+    color: var(--accent);
+    padding: 18px 2rem 0;
+    text-transform: uppercase;
+}
+
+/* ── Sidebar ── */
+[data-testid="stSidebar"] {
+    background-color: var(--surface) !important;
+    border-right: 1px solid var(--border) !important;
+}
+[data-testid="stSidebar"] * {
+    font-family: 'DM Mono', monospace !important;
+    color: var(--text) !important;
+}
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    font-family: 'Syne', sans-serif !important;
+    color: var(--accent) !important;
+    font-size: 0.85rem !important;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+/* ── Main headings ── */
+h1, h2, h3 {
+    font-family: 'Syne', sans-serif !important;
+    color: var(--text) !important;
+}
+h1 {
+    font-size: 2rem !important;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 0.4rem;
+    margin-bottom: 1.5rem !important;
+}
+h2 { font-size: 1.3rem !important; color: var(--accent) !important; }
+h3 { font-size: 1rem !important; color: var(--muted) !important; letter-spacing: 0.08em; }
+
+/* ── Tabs ── */
+[data-testid="stTabs"] [role="tablist"] {
+    background: var(--surface) !important;
+    border-radius: var(--radius) !important;
+    padding: 4px !important;
+    border: 1px solid var(--border) !important;
+    gap: 2px !important;
+}
+[data-testid="stTabs"] [role="tab"] {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.78rem !important;
+    letter-spacing: 0.08em !important;
+    color: var(--muted) !important;
+    background: transparent !important;
+    border-radius: 6px !important;
+    padding: 6px 16px !important;
+    transition: all 0.2s ease !important;
+    border: none !important;
+}
+[data-testid="stTabs"] [role="tab"][aria-selected="true"] {
+    background: var(--accent) !important;
+    color: #0f1117 !important;
+    font-weight: 500 !important;
+}
+[data-testid="stTabs"] [role="tab"]:hover:not([aria-selected="true"]) {
+    color: var(--text) !important;
+    background: var(--surface2) !important;
+}
+
+/* ── Buttons ── */
+[data-testid="stButton"] > button {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.78rem !important;
+    letter-spacing: 0.06em !important;
+    background: var(--surface2) !important;
+    color: var(--accent) !important;
+    border: 1px solid var(--accent) !important;
+    border-radius: var(--radius) !important;
+    padding: 0.45rem 1.2rem !important;
+    transition: all 0.18s ease !important;
+}
+[data-testid="stButton"] > button:hover {
+    background: var(--accent) !important;
+    color: #0f1117 !important;
+}
+
+/* ── Download buttons ── */
+[data-testid="stDownloadButton"] > button {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.78rem !important;
+    background: transparent !important;
+    color: var(--accent2) !important;
+    border: 1px solid var(--accent2) !important;
+    border-radius: var(--radius) !important;
+    width: 100% !important;
+    transition: all 0.18s ease !important;
+}
+[data-testid="stDownloadButton"] > button:hover {
+    background: var(--accent2) !important;
+    color: white !important;
+}
+
+/* ── Inputs, selects, text areas ── */
+[data-testid="stTextInput"] input,
+[data-testid="stNumberInput"] input,
+[data-testid="stSelectbox"] > div > div,
+[data-testid="stMultiSelect"] > div > div {
+    background-color: var(--surface2) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: var(--radius) !important;
+    color: var(--text) !important;
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.82rem !important;
+}
+[data-testid="stTextInput"] input:focus,
+[data-testid="stNumberInput"] input:focus {
+    border-color: var(--accent) !important;
+    box-shadow: 0 0 0 2px rgba(240,165,0,0.15) !important;
+}
+
+/* ── File uploader ── */
+[data-testid="stFileUploader"] {
+    background: var(--surface2) !important;
+    border: 1px dashed var(--border) !important;
+    border-radius: var(--radius) !important;
+    padding: 0.5rem !important;
+}
+[data-testid="stFileUploader"]:hover {
+    border-color: var(--accent) !important;
+}
+
+/* ── Dataframes / tables ── */
+[data-testid="stDataFrame"] {
+    border: 1px solid var(--border) !important;
+    border-radius: var(--radius) !important;
+    overflow: hidden !important;
+}
+[data-testid="stDataFrame"] * {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.78rem !important;
+}
+
+/* ── Metric / info / warning / success boxes ── */
+[data-testid="stInfo"] {
+    background: rgba(240,165,0,0.08) !important;
+    border: 1px solid rgba(240,165,0,0.3) !important;
+    border-radius: var(--radius) !important;
+    color: var(--text) !important;
+}
+[data-testid="stSuccess"] {
+    background: rgba(46,204,113,0.08) !important;
+    border: 1px solid rgba(46,204,113,0.3) !important;
+    border-radius: var(--radius) !important;
+}
+[data-testid="stWarning"] {
+    background: rgba(224,92,42,0.08) !important;
+    border: 1px solid rgba(224,92,42,0.3) !important;
+    border-radius: var(--radius) !important;
+}
+[data-testid="stError"] {
+    background: rgba(231,76,60,0.08) !important;
+    border: 1px solid rgba(231,76,60,0.35) !important;
+    border-radius: var(--radius) !important;
+}
+
+/* ── Radio buttons ── */
+[data-testid="stRadio"] label {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.82rem !important;
+    color: var(--text) !important;
+}
+
+/* ── Sliders ── */
+[data-testid="stSlider"] [role="slider"] {
+    background: var(--accent) !important;
+}
+[data-testid="stSlider"] [data-testid="stTickBarMin"],
+[data-testid="stSlider"] [data-testid="stTickBarMax"] {
+    color: var(--muted) !important;
+    font-size: 0.72rem !important;
+}
+
+/* ── Checkbox ── */
+[data-testid="stCheckbox"] label {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.82rem !important;
+    color: var(--text) !important;
+}
+
+/* ── Code blocks ── */
+[data-testid="stCode"] {
+    background: var(--surface2) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: var(--radius) !important;
+}
+code {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.78rem !important;
+    color: var(--accent) !important;
+}
+
+/* ── Multiselect tags ── */
+[data-testid="stMultiSelect"] span[data-baseweb="tag"] {
+    background: rgba(240,165,0,0.15) !important;
+    border: 1px solid var(--accent) !important;
+    border-radius: 4px !important;
+    color: var(--accent) !important;
+    font-size: 0.72rem !important;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+/* ── Section dividers ── */
+hr {
+    border: none !important;
+    border-top: 1px solid var(--border) !important;
+    margin: 1.5rem 0 !important;
+}
+</style>
+""", unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
 # 6.1  TRANSFORMATION LOG HELPERS
@@ -50,15 +308,15 @@ def load_google_sheet_service(url):
         "https://www.googleapis.com/auth/spreadsheets",
         "https://www.googleapis.com/auth/drive"
     ]
+    creds = Credentials.from_service_account_file("google_sheets.json", scopes=scope)
+    client = gspread.authorize(creds)
+
     try:
-        creds_dict = dict(st.secrets["gcp_service_account"])
-        creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
-        client = gspread.authorize(creds)
         sheet = client.open_by_url(url).sheet1
         data = sheet.get_all_records()
         return pd.DataFrame(data)
     except Exception as e:
-        st.error(f"Error loading sheet: {e}")
+        st.error(f"Error: {e}")
         return None
 
 
@@ -75,7 +333,6 @@ def get_profile(df):
 # ─────────────────────────────────────────────
 # SIDEBAR
 # ─────────────────────────────────────────────
-st.sidebar.title("Data Studio")
 
 st.sidebar.subheader("Load Data")
 
