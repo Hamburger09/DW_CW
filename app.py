@@ -283,8 +283,7 @@ def load_google_sheet_service(url):
         "https://www.googleapis.com/auth/drive"
     ]
     try:
-        import json
-        creds_dict = json.loads(st.secrets["gcp_json"])
+        creds_dict = dict(st.secrets["gcp_service_account"])
         creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
         client = gspread.authorize(creds)
         sheet = client.open_by_url(url).sheet1
