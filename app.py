@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import gspread
-import sqlalchemy
 from google.oauth2.service_account import Credentials
 import numpy as np
 import matplotlib.pyplot as plt

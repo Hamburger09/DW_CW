@@ -137,3 +137,4 @@ requirements.txt
 Click **Reset Session** in the sidebar to clear all data and start fresh.
 
 ## The deployed application link
+https://rcwdbjnx8wbscc3jse7ygv.streamlit.app/
